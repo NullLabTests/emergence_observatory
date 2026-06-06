@@ -41,6 +41,11 @@ class CognitionService:
                 api_key=config.deepseek_api_key,
                 model=config.deepseek_model,
             )
+        if provider == "mistral":
+            return DeepSeekBridge.mistral_api(
+                api_key=config.deepseek_api_key,
+                model=config.deepseek_model,
+            )
         return DeepSeekBridge(
             api_key=config.deepseek_api_key,
             model=config.deepseek_model,
