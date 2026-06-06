@@ -57,6 +57,9 @@ class World:
 
     Agents occupy locations and can gather resources, move between
     adjacent locations, and encounter one another.
+
+    The world also holds a collective knowledge repository, norms
+    passed by the agent society, and a registry of agent groups.
     """
 
     def __init__(self, width: int, height: int, seed: int = 42):
@@ -64,6 +67,10 @@ class World:
         self.height = height
         self.rng = random.Random(seed)
         self.locations: dict[tuple[int, int], Location] = {}
+        self.knowledge_repo: dict[str, list[dict]] = {}
+        self.norms: list[dict] = []
+        self.groups: dict[int, dict] = {}
+        self._next_group_id = 1
         self._generate()
 
     def _generate(self) -> None:

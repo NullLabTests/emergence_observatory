@@ -1,25 +1,35 @@
 from __future__ import annotations
 import random
-import json
 from dataclasses import dataclass, field, asdict
-from typing import Optional
 
 _PERSONALITY_TRAITS = [
     "curious", "cautious", "brave", "generous", "suspicious",
     "playful", "thoughtful", "impulsive", "loyal", "independent",
     "inventive", "proud", "gentle", "competitive", "trusting",
+    "diplomatic", "ambitious", "protective", "explorative",
 ]
 
-_GOAL_TEMPLATES = [
+_SOCIAL_GOALS = [
+    "build a thriving community",
+    "establish laws and governance",
+    "create a shared belief system",
+    "become a respected leader",
+    "unite all agents under common purpose",
+    "invent a writing system for the society",
+    "establish trade routes between groups",
+    "teach the young agents wisdom",
+    "build monuments to collective achievement",
+    "create a fair system for sharing resources",
+]
+
+_GOAL_TEMPLATES = _SOCIAL_GOALS + [
     "explore the {direction} part of the world",
     "find rare {resource}",
     "make friends with other agents",
     "discover the meaning of this world",
     "collect as many different resources as possible",
-    "build a safe shelter",
     "learn everything there is to know",
     "become the wisest agent",
-    "protect the {resource} in the {direction}",
     "invent a shared language",
 ]
 
@@ -54,10 +64,20 @@ class Agent:
     total_actions: int = 0
     conversation_history: list[dict] = field(default_factory=list)
 
-    # Back-reference set by simulation
+    # Society layer
+    knowledge_base: list[dict] = field(default_factory=list)
+    votes_cast: int = 0
+    proposals_made: int = 0
+    social_rank: float = 0.0
+    group_id: Optional[int] = None
+    research_findings: list[dict] = field(default_factory=list)
+
     world: object = None
 
     def snapshot(self) -> dict:
+        nearby = []
+        if self.world:
+            nearby = self.world.nearby_agents(self.x, self.y, radius=6, exclude=self.agent_id)
         return {
             "agent_id": self.agent_id,
             "x": self.x, "y": self.y,
@@ -71,6 +91,11 @@ class Agent:
             "num_alliances": len(self.alliances),
             "relationships": len(self.relationship_memory),
             "total_actions": self.total_actions,
+            "social_rank": round(self.social_rank, 2),
+            "group_id": self.group_id,
+            "votes_cast": self.votes_cast,
+            "proposals_made": self.proposals_made,
+            "nearby_agents": [a.agent_id for a in nearby],
         }
 
     def to_dict(self) -> dict:
@@ -94,30 +119,27 @@ class Agent:
         goals = []
         for _ in range(n_goals):
             g = rng.choice(_GOAL_TEMPLATES)
-            goals.append(g.format(direction=rng.choice(dirs), resource=rng.choice(resources)))
+            if "{" in g:
+                goals.append(g.format(direction=rng.choice(dirs), resource=rng.choice(resources)))
+            else:
+                goals.append(g)
 
         bio = rng.choice(_BIOS).format(
             loc=rng.choice(locs),
             goal=goals[0],
             memory=rng.choice(mems),
         )
-
-        return cls(
-            agent_id=agent_id,
-            personality=personality,
-            biography=bio,
-            x=x, y=y,
-            goals=goals,
-            tick_created=tick,
-        )
-
+        return cls(agent_id=agent_id, personality=personality, biography=bio,
+                   x=x, y=y, goals=goals, tick_created=tick)
 
     def add_memory(self, content: str, mtype: str = "experience", tick: int = 0) -> None:
         mem = {"tick": tick, "type": mtype, "content": content}
         self.short_term_memory.append(mem)
         self.episodic_memory.append(mem)
-        if len(self.short_term_memory) > 20:
-            self.short_term_memory = self.short_term_memory[-20:]
+        if len(self.short_term_memory) > 30:
+            self.short_term_memory = self.short_term_memory[-30:]
+        if len(self.episodic_memory) > 200:
+            self.episodic_memory = self.episodic_memory[-200:]
 
     def learn_word(self, word: str) -> None:
         if word:
@@ -126,3 +148,13 @@ class Agent:
     def adjust_relationship(self, other_id: int, delta: float) -> None:
         current = self.relationship_memory.get(other_id, 0.0)
         self.relationship_memory[other_id] = max(-5.0, min(5.0, current + delta))
+        self.social_rank = max(-5.0, min(5.0, self.social_rank + delta * 0.05))
+
+    def add_knowledge(self, topic: str, content: str, source: str = "research", tick: int = 0) -> None:
+        self.knowledge_base.append({
+            "tick": tick, "topic": topic, "content": content, "source": source,
+        })
+        if len(self.knowledge_base) > 50:
+            self.knowledge_base = self.knowledge_base[-50:]
+        for word in content.split()[:10]:
+            self.learn_word(word)

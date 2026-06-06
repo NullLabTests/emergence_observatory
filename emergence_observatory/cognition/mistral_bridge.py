@@ -15,20 +15,16 @@ except ImportError:
 class RateLimiter:
     """Token-bucket rate limiter for API calls."""
 
-    def __init__(self, calls_per_minute: int = 30):
-        self.rate = calls_per_minute
-        self.interval = 60.0 / calls_per_minute
-        self._timestamps: deque[float] = deque(maxlen=calls_per_minute)
+    def __init__(self, calls_per_minute: int = 60):
+        self.min_interval = 60.0 / max(calls_per_minute, 1)
+        self._last_call = 0.0
 
     def wait(self) -> None:
         now = time.monotonic()
-        while self._timestamps and now - self._timestamps[0] > 60.0:
-            self._timestamps.popleft()
-        if len(self._timestamps) >= self.rate:
-            sleep_for = self.interval - (now - self._timestamps[-1])
-            if sleep_for > 0:
-                time.sleep(sleep_for)
-        self._timestamps.append(time.monotonic())
+        elapsed = now - self._last_call
+        if elapsed < self.min_interval:
+            time.sleep(self.min_interval - elapsed)
+        self._last_call = time.monotonic()
 
 
 class MistralBridge:

@@ -3,72 +3,93 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Emergence Observatory — LLM Laboratory</title>
+<title>Emergence Observatory — Society Lab</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0d1117; color: #c9d1d9; padding: 16px; }
-  h1 { font-size: 1.2rem; margin-bottom: 8px; color: #58a6ff; }
+  h1 { font-size: 1.1rem; margin-bottom: 8px; color: #58a6ff; }
 
-  #layout { display: flex; gap: 16px; flex-wrap: wrap; }
-
-  #left-col { display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 500px; }
-  #right-col { width: 340px; display: flex; flex-direction: column; gap: 8px; }
+  #layout { display: flex; gap: 12px; flex-wrap: wrap; }
+  #left-col { flex: 1; min-width: 480px; display: flex; flex-direction: column; gap: 6px; }
+  #right-col { width: 360px; display: flex; flex-direction: column; gap: 6px; }
 
   #canvas-wrap { border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background: #161b22; }
   canvas { display: block; width: 100%; height: auto; aspect-ratio: 4/3; }
 
-  .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px; }
-  .card h2 { font-size: 0.75rem; color: #8b949e; text-transform: uppercase; letter-spacing: .4px; margin-bottom: 4px; }
-  .value-lg { font-size: 1.4rem; font-weight: 600; color: #f0f6fc; }
-  .metric-row { display: flex; gap: 6px; flex-wrap: wrap; }
-  .metric-row .card { flex: 1; min-width: 70px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 8px; }
+  .card h2 { font-size: 0.7rem; color: #8b949e; text-transform: uppercase; letter-spacing: .3px; margin-bottom: 3px; }
+  .value-lg { font-size: 1.2rem; font-weight: 600; color: #f0f6fc; }
+  .value-sm { font-size: 0.85rem; color: #f0f6fc; }
 
-  #conversations { max-height: 300px; overflow-y: auto; font-size: 0.8rem; }
-  #conversations .msg { padding: 4px 6px; margin: 2px 0; border-left: 3px solid #58a6ff; background: #0d1117; border-radius: 0 4px 4px 0; }
-  #conversations .msg .from { color: #58a6ff; font-weight: 600; }
-  #conversations .msg .content { color: #f0f6fc; }
+  .metric-row { display: flex; gap: 4px; flex-wrap: wrap; }
+  .metric-row .card { flex: 1; min-width: 65px; }
 
-  #word-ticker { font-size: 0.8rem; max-height: 120px; overflow-y: auto; }
-  #word-ticker .word { display: inline-block; background: #21262d; padding: 2px 8px; border-radius: 10px; margin: 2px; font-size: 0.75rem; }
+  #viz-panels { display: flex; gap: 6px; flex-wrap: wrap; }
+  #viz-panels .card { flex: 1; min-width: 120px; }
 
-  #status { font-size: 0.75rem; color: #8b949e; margin-top: 4px; }
-  .label-sm { font-size: 0.7rem; color: #8b949e; }
+  #conversations { max-height: 200px; overflow-y: auto; font-size: 0.75rem; }
+  #conversations .msg { padding: 3px 5px; margin: 2px 0; border-left: 3px solid #58a6ff; background: #0d1117; border-radius: 0 3px 3px 0; }
+  #conversations .from { color: #58a6ff; font-weight: 600; }
+  #conversations .to { color: #3fb950; font-weight: 600; }
+  #conversations .content { color: #f0f6fc; }
+
+  #proposals { max-height: 150px; overflow-y: auto; font-size: 0.75rem; }
+  #proposals .prop { padding: 3px 5px; margin: 2px 0; background: #0d1117; border-radius: 3px; border-left: 3px solid #d29922; }
+  #proposals .prop .title { color: #d29922; }
+  #proposals .prop .votes { color: #8b949e; }
+
+  #word-ticker { font-size: 0.75rem; max-height: 100px; overflow-y: auto; }
+  #word-ticker .word { display: inline-block; background: #21262d; padding: 1px 6px; border-radius: 8px; margin: 1px; }
+
+  #status { font-size: 0.7rem; color: #8b949e; margin-top: 3px; }
+  .highlight { color: #58a6ff; }
 </style>
 </head>
 <body>
-<h1>🔬 Emergence Observatory — LLM Agent Laboratory</h1>
+<h1>🔬 Emergence Observatory — LLM Society Laboratory</h1>
 
 <div id="layout">
   <div id="left-col">
     <div id="canvas-wrap">
       <canvas id="grid" width="800" height="600"></canvas>
     </div>
+
     <div class="metric-row">
       <div class="card"><h2>Tick</h2><div class="value-lg" id="tick">0</div></div>
       <div class="card"><h2>Agents</h2><div class="value-lg" id="numAgents">0</div></div>
-      <div class="card"><h2>Avg Energy</h2><div class="value-lg" id="avgEnergy">0</div></div>
+      <div class="card"><h2>Energy</h2><div class="value-lg" id="avgEnergy">0</div></div>
       <div class="card"><h2>Vocabulary</h2><div class="value-lg" id="vocabSize">0</div></div>
-    </div>
-    <div class="metric-row">
       <div class="card"><h2>Entropy</h2><div class="value-lg" id="entropy">0</div></div>
-      <div class="card"><h2>Graph Density</h2><div class="value-lg" id="graphDensity">0</div></div>
-      <div class="card"><h2>Communities</h2><div class="value-lg" id="numCommunities">0</div></div>
-      <div class="card"><h2>Alliances</h2><div class="value-lg" id="numAlliances">0</div></div>
     </div>
-    <div class="metric-row">
-      <div class="card"><h2>Word Survival</h2><div class="value-lg" id="wordSurvival">0</div></div>
-      <div class="card"><h2>Alliance Survival</h2><div class="value-lg" id="allianceSurvival">0</div></div>
+
+    <div id="viz-panels">
+      <div class="card"><h2>Communities</h2><div class="value-lg" id="numCommunities">0</div><span class="label-sm">graph components</span></div>
+      <div class="card"><h2>Alliances</h2><div class="value-lg" id="numAlliances">0</div><span class="label-sm">pairs</span></div>
+      <div class="card"><h2>Groups</h2><div class="value-lg" id="numGroups">0</div><span class="label-sm">organized</span></div>
+      <div class="card"><h2>Norms</h2><div class="value-lg" id="passedNorms">0</div><span class="label-sm">laws passed</span></div>
+      <div class="card"><h2>Proposals</h2><div class="value-lg" id="openProposals">0</div><span class="label-sm">open</span></div>
+      <div class="card"><h2>Word Survival</h2><div class="value-lg" id="wordSurvival">0</div><span class="label-sm">ticks</span></div>
+      <div class="card"><h2>Research</h2><div class="value-lg" id="totalResearch">0</div><span class="label-sm">findings</span></div>
+      <div class="card"><h2>Votes Cast</h2><div class="value-lg" id="totalVotes">0</div><span class="label-sm">total</span></div>
     </div>
   </div>
 
   <div id="right-col">
     <div class="card">
       <h2>💬 Live Conversations</h2>
-      <div id="conversations">Awaiting first interactions...</div>
+      <div id="conversations">Awaiting...</div>
+    </div>
+    <div class="card">
+      <h2>📋 Active Proposals</h2>
+      <div id="proposals">None yet.</div>
     </div>
     <div class="card">
       <h2>✨ Invented Words</h2>
       <div id="word-ticker">None yet.</div>
+    </div>
+    <div class="card">
+      <h2>📚 Knowledge Topics</h2>
+      <div id="knowledge-topics" class="value-sm">None yet.</div>
     </div>
   </div>
 </div>
