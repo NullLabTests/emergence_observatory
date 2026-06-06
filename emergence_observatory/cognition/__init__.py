@@ -1,5 +1,4 @@
-from .novelty_detector import NoveltyDetector
-from .deepseek_bridge import DeepSeekBridge
+from .mistral_bridge import MistralBridge
 from .cognition_service import CognitionService
 
-__all__ = ["NoveltyDetector", "DeepSeekBridge", "CognitionService"]
+__all__ = ["MistralBridge", "CognitionService"]

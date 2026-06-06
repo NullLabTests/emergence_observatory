@@ -5,32 +5,27 @@ from typing import Optional
 
 @dataclass
 class SimulationConfig:
-    grid_width: int = 100
-    grid_height: int = 100
-    num_agents: int = 100
-    max_agents: int = 1000
-    initial_energy: float = 100.0
-    energy_cost_per_move: float = 1.0
-    energy_gain_per_resource: float = 20.0
-    resource_density: float = 0.05
-    resource_regeneration_rate: float = 0.01
-    max_tick: int = 10_000
+    world_width: int = 80
+    world_height: int = 60
+    num_agents: int = 50
+    max_agents: int = 200
+    max_ticks: int = 5000
 
-    resource_types: list[str] = field(default_factory=lambda: ["food", "water", "stone", "wood"])
+    agents_per_tick: int = 3
+    tick_interval_ms: int = 1500
 
-    communication_range: int = 15
-    max_message_length: int = 100
+    mistral_api_key: Optional[str] = None
+    mistral_model: str = "mistral-large-latest"
+    llm_rate_limit_rpm: int = 30
+    llm_retry_max: int = 3
+    llm_timeout: float = 20.0
+    llm_enabled: bool = True
 
-    short_term_memory_size: int = 10
-    long_term_memory_size: int = 200
+    memory_path: str = "data/memory"
+    replay_path: str = "data/replay"
 
-    llm_enabled: bool = False
-    deepseek_api_key: Optional[str] = None
-    deepseek_model: str = "deepseek-chat"
-    llm_base_url: str = "https://api.deepseek.com/v1"
-    llm_provider: str = "deepseek"  # "deepseek" | "ollama" | "openai-compat"
-    novelty_threshold: float = 0.7
-    llm_cooldown_ticks: int = 100
+    viz_port: int = 5000
+    viz_update_interval_ms: int = 2000
 
-    viz_update_interval_ms: int = 100
-    port: int = 5000
+    world_seed: int = 42
+    personality_seed: int = 42

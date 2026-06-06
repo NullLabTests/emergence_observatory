@@ -2,7 +2,7 @@ from __future__ import annotations
 import json
 import time
 import threading
-from queue import Queue, Empty
+from queue import Queue
 
 from flask import Flask, Response, render_template, jsonify
 
@@ -10,21 +10,9 @@ from ..core.simulation import Simulation
 
 
 def create_app(simulation: Simulation) -> Flask:
-    """Build a Flask application that serves the live visualisation.
-
-    Two routes:
-
-      - ``GET /``  — the main dashboard HTML.
-      - ``GET /stream`` — SSE endpoint that pushes simulation snapshots.
-    """
-
     app = Flask(__name__, static_folder="static", template_folder="templates")
     app.config["simulation"] = simulation
     event_queue: Queue = Queue()
-
-    # ------------------------------------------------------------------
-    # Routes
-    # ------------------------------------------------------------------
 
     @app.route("/")
     def index():
@@ -34,8 +22,8 @@ def create_app(simulation: Simulation) -> Flask:
     def get_config():
         sim: Simulation = app.config["simulation"]
         return jsonify({
-            "grid_width": sim.config.grid_width,
-            "grid_height": sim.config.grid_height,
+            "world_width": sim.config.world_width,
+            "world_height": sim.config.world_height,
             "num_agents": len(sim.agents),
             "max_agents": sim.config.max_agents,
         })
@@ -50,15 +38,11 @@ def create_app(simulation: Simulation) -> Flask:
             yield "event: close\ndata: \n\n"
         return Response(generate(), mimetype="text/event-stream")
 
-    # ------------------------------------------------------------------
-    # Background tick thread
-    # ------------------------------------------------------------------
-
     def _run_loop(sim: Simulation, queue: Queue):
-        while sim.running:
+        while sim.running and sim.tick < sim.config.max_ticks:
             snapshot = sim.step()
             queue.put(snapshot)
-            time.sleep(sim.config.viz_update_interval_ms / 1000.0)
+            time.sleep(sim.config.tick_interval_ms / 1000.0)
 
     def start() -> None:
         sim: Simulation = app.config["simulation"]
@@ -66,6 +50,5 @@ def create_app(simulation: Simulation) -> Flask:
         t = threading.Thread(target=_run_loop, args=(sim, event_queue), daemon=True)
         t.start()
 
-    app.start_simulation = start  # type: ignore[attr-defined]
-
+    app.start_simulation = start
     return app

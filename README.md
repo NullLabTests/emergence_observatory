@@ -1,39 +1,33 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=for-the-badge&logo=python" alt="Python 3.10+"/>
   <img src="https://img.shields.io/badge/license-MIT-emerald?style=for-the-badge" alt="MIT License"/>
-  <img src="https://img.shields.io/badge/agents-1000-important?style=for-the-badge" alt="1000 agents"/>
-  <img src="https://img.shields.io/badge/LLM-Mistral%20%7C%20DeepSeek%20%7C%20Ollama-FF6F00?style=for-the-badge" alt="LLM providers"/>
-  <img src="https://img.shields.io/badge/codespace-ready-success?style=for-the-badge" alt="Codespace ready"/>
+  <img src="https://img.shields.io/badge/LLM-Mistral%20Large-FF6F00?style=for-the-badge" alt="Mistral LLM"/>
+  <img src="https://img.shields.io/badge/agents-persistent-success?style=for-the-badge" alt="Persistent agents"/>
+  <img src="https://img.shields.io/badge/state-JSONL-blue?style=for-the-badge" alt="JSONL persistence"/>
 </p>
 
 <h1 align="center">🔬 Emergence Observatory</h1>
-<p align="center"><em>Watch intelligence bloom from simple rules — a simulation framework for studying emergent behavior in populations of up to 1000 lightweight AI agents.</em></p>
+<p align="center"><em>An LLM-native multi-agent laboratory for studying emergent intelligence — vocabulary formation, social networks, alliances, cultural persistence, and collective problem-solving through actual natural language conversations.</em></p>
 
 ---
 
-## 🧠 Scientific Motivation
+## 🧬 What This Is
 
-> *"The whole is something besides the parts."* — Aristotle
+This is **not** an AGI project. It is **not** an autonomous coding framework.
 
-Emergence — the rise of macro-level patterns from micro-level interactions — sits at the heart of complex systems science. Ant colonies build bridges without architects. Neurons produce thought without a conductor. Markets set prices without central planning.
+Emergence Observatory is a scientific instrument for observing **whether** and **how** collective behaviors emerge from a population of autonomous LLM-backed agents. Each agent has a persistent identity, personality, goals, memories, and social relationships. They move through a shared world, gather resources, invent words, form alliances, and communicate in **real natural language** — all driven by a Mistral LLM.
 
-**Emergence Observatory** gives you a living, instrumented sandbox to watch this process unfold. Every agent follows simple survival rules: move, gather resources, share information. Yet from those local interactions, global patterns arise — shared vocabulary, social networks, collective foraging strategies.
+The primary research questions:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Communication%20Entropy-8A2BE2?style=flat-square" alt="Communication Entropy"/>
-  <img src="https://img.shields.io/badge/-Social%20Graph-00BFFF?style=flat-square" alt="Social Graph"/>
-  <img src="https://img.shields.io/badge/-Vocabulary%20Growth-32CD32?style=flat-square" alt="Vocabulary Growth"/>
-  <img src="https://img.shields.io/badge/-Strategy%20Propagation-FF8C00?style=flat-square" alt="Strategy Propagation"/>
-</p>
-
-### 📊 Four Pillars of Emergence
-
-| Pillar | Question | Metric |
-|---|---|---|
-| 🗣️ **Communication** | How does local gossip create shared language and information cascades? | Shannon entropy of message types; vocabulary growth curve |
-| 🕸️ **Social Structure** | Do agents build stable interaction networks? How does topology shape information flow? | Graph density; degree distribution |
-| 🧬 **Strategy Propagation** | Can a successful foraging strategy spread through the population? | Strategy share per tick; adoption latency |
-| 🐝 **Collective Intelligence** | Do groups outperform individuals? Is there an optimal population size? | Per-capita energy; resource coverage |
+| Phenomenon | What We Measure |
+|---|---|
+| 🗣️ **Vocabulary formation** | Newly invented words, their meanings, adoption rate, survival time |
+| 🕸️ **Social network formation** | Relationship graph, affinity scores, community detection |
+| 🤝 **Coalition & alliance formation** | Alliance count, duration, mutual resource sharing |
+| 📡 **Information propagation** | How news and invented words spread through the population |
+| 🏛️ **Cultural persistence** | Longest-surviving invented word, longest alliance |
+| 🔧 **Specialization & division of labour** | Action diversity, role distribution, resource specialization |
+| 🧩 **Collective problem-solving** | Group vs individual resource gathering efficiency |
 
 ---
 
@@ -41,154 +35,131 @@ Emergence — the rise of macro-level patterns from micro-level interactions —
 
 ```
 emergence_observatory/
-├── core/                          # Agent, GridWorld, Simulation
-│   ├── agent.py                   # Lightweight agent (~1 KB each)
-│   ├── grid_world.py              # 2D resource landscape
-│   ├── resource.py                # Depletable / regenerating tiles
-│   └── simulation.py              # Tick loop orchestration
-├── communication/                 # Agent-to-agent messaging
-│   ├── message.py
-│   └── protocol.py                # Spatial broadcast within range
-├── cognition/                     # Rare, routed LLM reasoning
-│   ├── novelty_detector.py        # Heuristic: when to invoke the LLM
-│   ├── deepseek_bridge.py         # Multi-provider LLM bridge
-│   └── cognition_service.py       # Shared throttling & routing
-├── metrics/                       # Emergence measurement
-│   └── collector.py               # Pluggable metric collection
-├── logging/                       # Structured event log (JSONL)
-│   └── event_logger.py
-├── viz/                           # Live browser dashboard
-│   ├── app.py                     # Flask SSE server
+├── core/
+│   ├── agent.py           # Persistent agent: personality, biography, goals, memories
+│   ├── world.py           # Location-based world with named places and resources
+│   └── simulation.py      # LLM-native tick loop orchestration
+├── cognition/
+│   ├── mistral_bridge.py  # Mistral API client with rate limiting & retry
+│   ├── cognition_service.py # Shared LLM service — builds prompts, dispatches decisions
+│   └── prompts.py         # System prompts for agent decision-making
+├── memory/
+│   └── memory_store.py    # JSON-file-backed persistence for all agent state
+├── metrics/
+│   └── collector.py       # Continuous emergence metrics (written to disk)
+├── replay/
+│   ├── recorder.py        # JSONL recording of every interaction
+│   └── player.py          # Replay system for post-hoc analysis
+├── viz/
+│   ├── app.py             # Flask SSE server
 │   ├── templates/index.html
 │   └── static/viz.js
-├── config.py                      # SimulationConfig dataclass
-├── run.py                         # CLI entry point
-└── experiments/                   # Reproducible experiment scripts
+└── run.py                 # CLI entry point
 ```
 
-### ✨ Design Principles
+## How It Works
 
-| # | Principle | Why |
-|---|-----------|-----|
-| 1 | **Lightweight agents** — plain Python objects, ~1 KB each | 1000 agents fit in a free Codespace |
-| 2 | **Local rules** — deterministic & probabilistic decisions | Emergence requires only local interaction |
-| 3 | **LLM calls are rare** — novelty-gated, throttled, routed through a shared service | Cost control & realistic bounded rationality |
-| 4 | **Multi-provider LLM bridge** — DeepSeek, Mistral, Ollama, any OpenAI-compatible API | No vendor lock-in |
-| 5 | **Graceful degradation** — rule-based fallback when API is unavailable | The simulation never crashes |
+### Agent Model
+
+Each agent is a **persistent object** stored as JSON:
+
+- **Unique ID** — immutable
+- **Personality seed** — 2–4 traits sampled from a curated pool (curious, cautious, generous, inventive...)
+- **Biography** — procedurally generated origin story
+- **Goals** — 1–2 long-term objectives (e.g., "find rare crystals in the eastern part of the world")
+- **Memory** — short-term (last 20 experiences) + episodic (up to 100 consolidated memories)
+- **Relationships** — affinity scores for every encountered agent
+- **Vocabulary** — learned words + invented words with definitions
+- **Alliances** — tracked by ID and alliance name
+- **Location** — current position in the world
+
+### The Tick Loop
+
+```
+For each tick:
+  1. Regenerate world resources
+  2. Select N random active agents
+  3. For each agent:
+     a. Build a rich context prompt (location, nearby agents, memories, goals)
+     b. Call Mistral LLM → returns structured JSON decision
+     c. Execute the action (move, speak, gather, invent_word, cooperate...)
+     d. Persist updated agent state to disk
+  4. Compute emergence metrics
+  5. Append to JSONL replay log
+  6. Push snapshot to live dashboard
+```
+
+### Agent Decisions
+
+Agents choose from 11 possible actions, each returned as structured JSON:
+
+```json
+{
+  "action": "speak",
+  "target_id": 31,
+  "content": "I found blue crystals by the river. I call them GLA.",
+  "reasoning": "Sharing useful information builds trust."
+}
+```
+
+All conversations are stored **verbatim**.
 
 ---
 
 ## 🚀 Quick Start
 
-### Installation
-
 ```bash
 git clone git@github.com:NullLabTests/emergence_observatory.git
 cd emergence_observatory
 pip install -r requirements.txt
+
+export MISTRAL_API_KEY="your-key-here"
+python run.py --agents 20
 ```
 
-### Run the Dashboard
+Open **http://127.0.0.1:5000** to watch the lab in real time.
 
-```bash
-python run.py --agents 100
-```
-
-Open **http://127.0.0.1:5000** — you'll see a live grid of agents moving, gathering, and talking. Metrics update in real time.
-
-### Options
+### Command-Line Options
 
 | Flag | Default | Description |
 |---|---|---|
-| `--agents` | `100` | Number of agents |
-| `--width` | `100` | Grid width |
-| `--height` | `100` | Grid height |
-| `--llm` | off | Enable LLM reasoning |
-| `--llm-provider` | `deepseek` | `deepseek`, `mistral`, `ollama`, or `openai-compat` |
-| `--llm-model` | *auto* | Model name (e.g. `mistral-large-latest`) |
-| `--ollama` | off | Shorthand for Ollama at `localhost:11434` |
-| `--tick-interval` | `0.1s` | Seconds between simulation ticks |
+| `--agents` | `50` | Number of agents |
+| `--width` | `80` | World width |
+| `--height` | `60` | World height |
+| `--batch` | `3` | Agents acting per tick |
+| `--tick-interval` | `1.5s` | Seconds between ticks |
+| `--model` | `mistral-large-latest` | Mistral model name |
+| `--rpm` | `30` | LLM rate limit |
+| `--no-llm` | off | Dry-run without LLM |
 | `--port` | `5000` | HTTP port |
-| `--max-tick` | `10000` | Stop after this many ticks |
-
-### Headless Experiments
-
-```bash
-python experiments/basic_run.py --ticks 500
-python experiments/collective_intelligence.py
-```
 
 ---
 
-## 🤖 LLM Providers
+## 🔬 Example Run
 
-The cognition bridge supports **any** OpenAI-compatible API. Convenience modes for the most common backends:
-
-### DeepSeek API
-
-```bash
-export DEEPSEEK_API_KEY="sk-..."
-python run.py --llm --llm-provider deepseek
-```
-
-### Mistral AI
-
-```bash
-export MISTRAL_API_KEY="your-key-here"
-python run.py --llm --llm-provider mistral --llm-model mistral-large-latest
-```
-
-### Local Ollama
-
-```bash
-# First: ollama pull deepseek-r1:8b
-python run.py --ollama --llm-model deepseek-r1:8b
-```
-
-### Custom Endpoint (vLLM, llama.cpp, etc.)
-
-```bash
-python run.py --llm --llm-provider openai-compat \
-  --llm-base-url http://localhost:8000/v1 \
-  --llm-model my-model
-```
-
-When no API is reachable, the bridge falls back to deterministic rules — **your simulation never crashes**.
-
----
-
-## 🔬 Running at Scale
-
-A 1000-agent, 200-tick test produces measurable emergence:
+After 10 ticks with 8 agents, the LLM (0 failures out of 20 calls) produced:
 
 ```
-tick   1: agents=1000  energy=99   msgs=0       vocab=0
-tick  51: agents=1000  energy=49   msgs=7000    vocab=121
-tick 101: agents=995   energy=34   msgs=8150    vocab=126
-tick 151: agents=698   energy=22   msgs=8543    vocab=126
-tick 200: agents=311   energy=17   msgs=8639    vocab=126
-
-  entropy:      0.486     ← message-type diversity
-  graph density: 0.211    ← 21% of possible social edges active
-  vocabulary:    126 words ← emergent shared language
+Agent 3 invented "rok"  → "the hard, solid substance found in the ground here"
+Agent 1 invented "lumi" → "the dancing light I first saw on the river bank"
+Agent 5 invented "zun"  → "the vast empty plain from my memory"
+Agent 7 invented "veth" → "the act of moving with purpose across the land"
+Agent 2 invented "keth" → "the spark of curiosity or the drive to create meaning"
+Agent 0 invented "dren" → "the quiet hum of the world"
 ```
-
-Resource competition drives interesting extinction dynamics — agents that fail to find food die off, while those that cooperate survive.
 
 ---
 
 ## 🧪 Extensibility
 
-The framework is designed for future experiments:
-
-| Direction | Hook |
+| Direction | How |
 |---|---|
-| 🧠 **Memory & culture** | `short_term_memory` / `long_term_memory` ready. Add decay, rehearsal, narrative compression. |
-| 👥 **Collective intelligence** | `MetricsCollector.collect()` is pluggable — add custom metrics. |
-| 🌍 **Environmental complexity** | Extend `GridWorld` with obstacles, weather, predators, seasons. |
-| 🎭 **Agent heterogeneity** | Vary sensor range, speed, memory capacity — study division of labour. |
-| 🗺️ **Spatial cognition** | Add cognitive maps, landmark-based navigation, territoriality. |
-| 🔄 **Cultural evolution** | Implement imitation, teaching, norm formation, prestige bias. |
+| 🧠 **Better memory** | Implement consolidation, decay, or narrative compression in `agent.py` |
+| 🌍 **Richer world** | Add dynamic events, seasons, obstacles in `world.py` |
+| 🤖 **Different LLM** | Subclass `MistralBridge` for any OpenAI-compatible API |
+| 📊 **New metrics** | Add to `MetricsCollector.collect()` |
+| 🎭 **Agent heterogeneity** | Vary personality, goals, and capabilities per agent |
+| 🔄 **Cultural evolution** | Implement prestige bias, conformity, teaching fidelity |
 
 ---
 
