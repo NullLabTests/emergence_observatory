@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Emergence Observatory</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0d1117; color: #c9d1d9; padding: 16px; }
+  h1 { font-size: 1.3rem; margin-bottom: 8px; color: #58a6ff; }
+  #dashboard { display: flex; gap: 16px; flex-wrap: wrap; }
+  #canvas-wrap { position: relative; border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background: #161b22; }
+  canvas { display: block; width: 700px; height: 700px; }
+  #panel { flex: 1; min-width: 280px; display: flex; flex-direction: column; gap: 8px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; }
+  .card h2 { font-size: 0.85rem; color: #8b949e; margin-bottom: 4px; text-transform: uppercase; letter-spacing: .5px; }
+  .card .value { font-size: 1.5rem; font-weight: 600; color: #f0f6fc; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; }
+  .row .card { flex: 1; min-width: 100px; }
+  #legend { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 8px; font-size: 0.8rem; }
+  #legend span { display: flex; align-items: center; gap: 4px; }
+  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
+  #strategy-bar { display: flex; height: 18px; border-radius: 4px; overflow: hidden; margin-top: 4px; }
+  #strategy-bar div { transition: width .3s; }
+  #status { font-size: 0.8rem; color: #8b949e; margin-top: 4px; }
+  #log { max-height: 150px; overflow-y: auto; font-size: 0.75rem; font-family: monospace; }
+  #log div { padding: 1px 0; border-bottom: 1px solid #21262d; }
+</style>
+</head>
+<body>
+<h1>🧬 Emergence Observatory</h1>
+<div id="legend">
+  <span><span class="dot" style="background:#58a6ff"></span> explore</span>
+  <span><span class="dot" style="background:#3fb950"></span> gather</span>
+  <span><span class="dot" style="background:#d29922"></span> social</span>
+  <span><span class="dot" style="background:#8b949e"></span> rest</span>
+  <span><span class="dot" style="background:#f85149"></span> low energy</span>
+</div>
+<div id="dashboard">
+  <div id="canvas-wrap">
+    <canvas id="grid" width="700" height="700"></canvas>
+  </div>
+  <div id="panel">
+    <div class="row">
+      <div class="card"><h2>Tick</h2><div class="value" id="tick">0</div></div>
+      <div class="card"><h2>Agents</h2><div class="value" id="numAgents">0</div></div>
+      <div class="card"><h2>Avg Energy</h2><div class="value" id="avgEnergy">0</div></div>
+    </div>
+    <div class="card">
+      <h2>Vocabulary Size</h2>
+      <div class="value" id="vocabSize">0</div>
+    </div>
+    <div class="card">
+      <h2>Communication Entropy</h2>
+      <div class="value" id="entropy">0</div>
+    </div>
+    <div class="card">
+      <h2>Social Graph Density</h2>
+      <div class="value" id="graphDensity">0</div>
+    </div>
+    <div class="card">
+      <h2>Strategy Distribution</h2>
+      <div id="strategy-bar"></div>
+      <div id="strategy-labels" style="font-size:0.75rem;margin-top:4px;"></div>
+    </div>
+    <div class="card">
+      <h2>Event Log</h2>
+      <div id="log"></div>
+    </div>
+    <div id="status">Connected</div>
+  </div>
+</div>
+<script src="/static/viz.js"></script>
+</body>
+</html>
