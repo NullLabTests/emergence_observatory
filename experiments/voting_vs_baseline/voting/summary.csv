@@ -1,0 +1,4 @@
+vocab_size,num_alliances,num_groups,passed_norms,open_proposals,total_research,total_votes,avg_energy,graph_density,longest_word_survival,total_words_invented,alive_words,extinct_words,mean_word_lifetime,max_word_lifetime,max_peak_adoption,llm_calls,llm_failures,seed,label
+80,0,0,0,2,138,2,96.66666666666667,0.0,19,11,11,0,16.0,19,1,100,0,1,voting
+70,0,0,1,7,114,21,96.66666666666667,0.0,19,11,11,0,16.8,19,1,100,0,2,voting
+85,0,0,0,3,156,7,96.66666666666667,0.0,19,11,11,0,14.6,19,2,100,0,3,voting

@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/state-JSONL-blue?style=for-the-badge" alt="JSONL persistence"/>
 </p>
 
-<h1 align="center">🔬 Emergence Observatory</h1>
-<p align="center"><em>An LLM-native multi-agent laboratory for studying emergent intelligence — vocabulary formation, social networks, alliances, cultural persistence, and collective problem-solving through actual natural language conversations.</em></p>
+<h1 align="center"> Emergence Observatory</h1>
+<p align="center"><em>An LLM-native multi-agent laboratory for studying emergent social behavior — vocabulary formation, proposals and voting, knowledge sharing, and group dynamics through real Mistral API calls.</em></p>
 
 ---
 
@@ -21,13 +21,12 @@ The primary research questions:
 
 | Phenomenon | What We Measure |
 |---|---|
-| 🗣️ **Vocabulary formation** | Newly invented words, their meanings, adoption rate, survival time |
-| 🕸️ **Social network formation** | Relationship graph, affinity scores, community detection |
-| 🤝 **Coalition & alliance formation** | Alliance count, duration, mutual resource sharing |
-| 📡 **Information propagation** | How news and invented words spread through the population |
-| 🏛️ **Cultural persistence** | Longest-surviving invented word, longest alliance |
-| 🔧 **Specialization & division of labour** | Action diversity, role distribution, resource specialization |
-| 🧩 **Collective problem-solving** | Group vs individual resource gathering efficiency |
+| **Vocabulary formation** | Newly invented words, their meanings, adoption rate, survival time (see `experiments/novelty_ledger.py`) |
+| **Proposal & voting** | Norms proposed, votes cast, quorum reached, adopted norms (see `cognition/proposal_system.py`) |
+| **Knowledge sharing** | Research findings, hivemind contributions, information propagation |
+| **Group formation** | Groups formed, shared purpose, membership duration |
+| **Cultural persistence** | Word lifetimes, alliance duration, norm adoption over time |
+| **Social networks** | Relationship graph, affinity scores, communication patterns |
 
 ---
 
@@ -66,10 +65,13 @@ Each agent is a **persistent object** stored as JSON:
 - **Unique ID** — immutable
 - **Personality seed** — 2–4 traits sampled from a curated pool (curious, cautious, generous, inventive...)
 - **Biography** — procedurally generated origin story
-- **Goals** — 1–2 long-term objectives (e.g., "find rare crystals in the eastern part of the world")
-- **Memory** — short-term (last 20 experiences) + episodic (up to 100 consolidated memories)
+- **Goals** — 1–2 long-term objectives
+- **Memory** — short-term (last 20 experiences) + episodic (up to 100 consolidated memories) + relationship memories
 - **Relationships** — affinity scores for every encountered agent
 - **Vocabulary** — learned words + invented words with definitions
+- **Knowledge base** — research findings shared via hivemind
+- **Social rank** — influenced by proposal success and knowledge contributions
+- **Group ID** — if the agent has joined a group
 - **Alliances** — tracked by ID and alliance name
 - **Location** — current position in the world
 
@@ -78,20 +80,24 @@ Each agent is a **persistent object** stored as JSON:
 ```
 For each tick:
   1. Regenerate world resources
-  2. Select N random active agents
-  3. For each agent:
-     a. Build a rich context prompt (location, nearby agents, memories, goals)
+  2. Scan for extinct words (not spoken in 10+ ticks)
+  3. Process open proposals (close if past deadline with quorum)
+  4. Select N active agents (default 5)
+  5. For each agent:
+     a. Build rich context (location, nearby agents, memories, goals, proposals)
      b. Call Mistral LLM → returns structured JSON decision
-     c. Execute the action (move, speak, gather, invent_word, cooperate...)
+     c. Execute action (one of 16: move, speak, gather, remember, teach, follow,
+        share_resource, invent_word, cooperate, propose, vote, research, hivemind,
+        form_group, join_group, ignore)
      d. Persist updated agent state to disk
-  4. Compute emergence metrics
-  5. Append to JSONL replay log
-  6. Push snapshot to live dashboard
+  6. Compute emergence metrics (vocab, word lifetimes, proposal status, groups, graph)
+  7. Append to JSONL replay log
+  8. Push snapshot to live dashboard (Flask SSE)
 ```
 
 ### Agent Decisions
 
-Agents choose from 11 possible actions, each returned as structured JSON:
+Agents choose from 16 possible actions, each returned as structured JSON:
 
 ```json
 {
@@ -132,34 +138,41 @@ Open **http://127.0.0.1:5000** to watch the lab in real time.
 | `--rpm` | `30` | LLM rate limit |
 | `--no-llm` | off | Dry-run without LLM |
 | `--port` | `5000` | HTTP port |
+| `--vote-ticks` | `6` | Ticks a proposal stays open for voting |
+| `--quorum` | `0.25` | Fraction of agents needed to close a proposal |
 
 ---
 
-## 🔬 Example Run
+## Experiments
 
-After 10 ticks with 8 agents, the LLM (0 failures out of 20 calls) produced:
+Controlled experiments live in `experiments/`. Each experiment varies one parameter, runs 3+ seeds per condition, and writes per-seed metrics + novelty ledger + summary CSVs.
 
-```
-Agent 3 invented "rok"  → "the hard, solid substance found in the ground here"
-Agent 1 invented "lumi" → "the dancing light I first saw on the river bank"
-Agent 5 invented "zun"  → "the vast empty plain from my memory"
-Agent 7 invented "veth" → "the act of moving with purpose across the land"
-Agent 2 invented "keth" → "the spark of curiosity or the drive to create meaning"
-Agent 0 invented "dren" → "the quiet hum of the world"
-```
+### Latest: voting vs baseline
+
+See [`papers/preliminary_findings.md`](papers/preliminary_findings.md) for full results.
+
+| Metric | Baseline (3 runs) | Voting (3 runs) |
+|---|---|---|
+| Vocab size | 86.3 | 78.3 |
+| Words invented | 11.3 | 11.0 |
+| Passed norms | 0.0 | **0.3** |
+| Alliances/groups | 0 | 0 |
+
+**Key takeaway:** Voting-enabled agents successfully passed norms (1 of 3 runs); baseline passed 0 by design. Vocabulary formation was similar across conditions. Alliances did not form within 20 ticks.
 
 ---
 
 ## 🧪 Extensibility
 
 | Direction | How |
-|---|---|
-| 🧠 **Better memory** | Implement consolidation, decay, or narrative compression in `agent.py` |
-| 🌍 **Richer world** | Add dynamic events, seasons, obstacles in `world.py` |
-| 🤖 **Different LLM** | Subclass `MistralBridge` for any OpenAI-compatible API |
-| 📊 **New metrics** | Add to `MetricsCollector.collect()` |
-| 🎭 **Agent heterogeneity** | Vary personality, goals, and capabilities per agent |
-| 🔄 **Cultural evolution** | Implement prestige bias, conformity, teaching fidelity |
+|---|---|---|
+| **Better memory** | Implement consolidation, decay, or narrative compression in `agent.py` |
+| **Richer world** | Add dynamic events, seasons, obstacles in `world.py` |
+| **Different LLM** | Subclass `MistralBridge` for any OpenAI-compatible API |
+| **New metrics** | Add to `MetricsCollector.collect()` |
+| **Agent heterogeneity** | Vary personality, goals, and capabilities per agent |
+| **Cultural evolution** | Implement prestige bias, conformity, teaching fidelity |
+| **Statistical rigour** | Run `experiments/runner.py` with multiple seeds and conditions |
 
 ---
 
