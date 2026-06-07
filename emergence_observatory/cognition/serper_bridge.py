@@ -20,7 +20,7 @@ class LLMResearcher:
 
     def search(self, query: str, num_results: int = 3) -> list[dict]:
         prompt = f"Research topic: {query}\n\nGenerate exactly {num_results} specific, insightful findings about this topic. Each finding should be a concrete fact or useful insight the agent can act on."
-        result = self._bridge.reason_raw(prompt, system=RESEARCH_SYSTEM_PROMPT)
+        result = self._bridge.reason_raw(RESEARCH_SYSTEM_PROMPT, prompt)
         if not result:
             return self._synthetic(query, num_results)
         try:

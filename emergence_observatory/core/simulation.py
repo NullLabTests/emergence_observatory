@@ -241,15 +241,18 @@ class Simulation:
         # --- NEW: Society actions ---
 
         elif action == "propose":
-            title = str(params.get("title", "Untitled proposal"))[:100]
-            desc = str(params.get("description", ""))[:300]
-            ptype = str(params.get("ptype", "norm"))[:20]
-            if title:
-                pid = self.world.proposals.submit(agent.agent_id, title, desc, ptype, self.tick)
-                agent.proposals_made += 1
-                agent.social_rank += 0.3
-                result["message"] = f"Submitted proposal #{pid}: {title}"
-                agent.add_memory(f"I proposed '{title}'", mtype="proposal", tick=self.tick)
+            if not self.config.proposals_enabled:
+                result = {"success": False, "message": "Proposals are not enabled."}
+            else:
+                title = str(params.get("title", "Untitled proposal"))[:100]
+                desc = str(params.get("description", ""))[:300]
+                ptype = str(params.get("ptype", "norm"))[:20]
+                if title:
+                    pid = self.world.proposals.submit(agent.agent_id, title, desc, ptype, self.tick)
+                    agent.proposals_made += 1
+                    agent.social_rank += 0.3
+                    result["message"] = f"Submitted proposal #{pid}: {title}"
+                    agent.add_memory(f"I proposed '{title}'", mtype="proposal", tick=self.tick)
 
         elif action == "vote":
             pid = int(params.get("proposal_id", 0))

@@ -1,0 +1,265 @@
+{
+  "experiment_dir": "experiments/voting_vs_baseline",
+  "conditions": {
+    "baseline": {
+      "stats": {
+        "final_vocab": {
+          "mean": 86.3333,
+          "std": 5.4365,
+          "ci95": 6.152,
+          "min": 82.0,
+          "max": 94.0
+        },
+        "total_words_invented": {
+          "mean": 11.3333,
+          "std": 0.9428,
+          "ci95": 1.0669,
+          "min": 10,
+          "max": 12
+        },
+        "alive_words": {
+          "mean": 11.3333,
+          "std": 0.9428,
+          "ci95": 1.0669,
+          "min": 10,
+          "max": 12
+        },
+        "extinct_words": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "mean_word_lifetime": {
+          "mean": 16.2,
+          "std": 0.6164,
+          "ci95": 0.6976,
+          "min": 15.5,
+          "max": 17.0
+        },
+        "zipf_alpha": {
+          "mean": -0.0722,
+          "std": 0.1021,
+          "ci95": 0.1155,
+          "min": -0.2165,
+          "max": 0.0
+        },
+        "heaps_beta": {
+          "mean": 0.7776,
+          "std": 0.1853,
+          "ci95": 0.2097,
+          "min": 0.5734,
+          "max": 1.022
+        },
+        "max_peak_adoption": {
+          "mean": 1.3333,
+          "std": 0.4714,
+          "ci95": 0.5334,
+          "min": 1,
+          "max": 2
+        }
+      },
+      "seeds": [
+        {
+          "seed": 1,
+          "final_vocab": 83.0,
+          "total_words_invented": 12,
+          "alive_words": 12,
+          "extinct_words": 0,
+          "mean_word_lifetime": 15.5,
+          "zipf_alpha": 0.0,
+          "heaps_beta": 1.022,
+          "max_peak_adoption": 1
+        },
+        {
+          "seed": 2,
+          "final_vocab": 94.0,
+          "total_words_invented": 12,
+          "alive_words": 12,
+          "extinct_words": 0,
+          "mean_word_lifetime": 17.0,
+          "zipf_alpha": 0.0,
+          "heaps_beta": 0.7375,
+          "max_peak_adoption": 1
+        },
+        {
+          "seed": 3,
+          "final_vocab": 82.0,
+          "total_words_invented": 10,
+          "alive_words": 10,
+          "extinct_words": 0,
+          "mean_word_lifetime": 16.1,
+          "zipf_alpha": -0.2165,
+          "heaps_beta": 0.5734,
+          "max_peak_adoption": 2
+        }
+      ],
+      "zipf_alpha_bootstrap": {
+        "mean": -0.0722,
+        "ci_low": -0.2165,
+        "ci_high": 0.0,
+        "n": 3
+      },
+      "heaps_beta_bootstrap": {
+        "mean": 0.7776,
+        "ci_low": 0.5734,
+        "ci_high": 1.022,
+        "n": 3
+      }
+    },
+    "voting": {
+      "stats": {
+        "final_vocab": {
+          "mean": 78.3333,
+          "std": 6.2361,
+          "ci95": 7.0568,
+          "min": 70.0,
+          "max": 85.0
+        },
+        "total_words_invented": {
+          "mean": 11.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "min": 11,
+          "max": 11
+        },
+        "alive_words": {
+          "mean": 11.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "min": 11,
+          "max": 11
+        },
+        "extinct_words": {
+          "mean": 0.0,
+          "std": 0.0,
+          "ci95": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "mean_word_lifetime": {
+          "mean": 15.8,
+          "std": 0.9092,
+          "ci95": 1.0289,
+          "min": 14.6,
+          "max": 16.8
+        },
+        "zipf_alpha": {
+          "mean": -0.0662,
+          "std": 0.0936,
+          "ci95": 0.1059,
+          "min": -0.1986,
+          "max": 0.0
+        },
+        "heaps_beta": {
+          "mean": 0.6967,
+          "std": 0.2364,
+          "ci95": 0.2676,
+          "min": 0.4551,
+          "max": 1.0177
+        },
+        "max_peak_adoption": {
+          "mean": 1.3333,
+          "std": 0.4714,
+          "ci95": 0.5334,
+          "min": 1,
+          "max": 2
+        }
+      },
+      "seeds": [
+        {
+          "seed": 1,
+          "final_vocab": 80.0,
+          "total_words_invented": 11,
+          "alive_words": 11,
+          "extinct_words": 0,
+          "mean_word_lifetime": 16.0,
+          "zipf_alpha": 0.0,
+          "heaps_beta": 1.0177,
+          "max_peak_adoption": 1
+        },
+        {
+          "seed": 2,
+          "final_vocab": 70.0,
+          "total_words_invented": 11,
+          "alive_words": 11,
+          "extinct_words": 0,
+          "mean_word_lifetime": 16.8,
+          "zipf_alpha": 0.0,
+          "heaps_beta": 0.4551,
+          "max_peak_adoption": 1
+        },
+        {
+          "seed": 3,
+          "final_vocab": 85.0,
+          "total_words_invented": 11,
+          "alive_words": 11,
+          "extinct_words": 0,
+          "mean_word_lifetime": 14.6,
+          "zipf_alpha": -0.1986,
+          "heaps_beta": 0.6173,
+          "max_peak_adoption": 2
+        }
+      ],
+      "zipf_alpha_bootstrap": {
+        "mean": -0.0662,
+        "ci_low": -0.1986,
+        "ci_high": 0.0,
+        "n": 3
+      },
+      "heaps_beta_bootstrap": {
+        "mean": 0.6967,
+        "ci_low": 0.4551,
+        "ci_high": 1.0177,
+        "n": 3
+      }
+    }
+  },
+  "comparisons": {
+    "baseline_vs_voting": {
+      "final_vocab": {
+        "U": 2.0,
+        "p_value": 0.2752,
+        "z": -1.0911,
+        "nx": 3,
+        "ny": 3
+      },
+      "total_words_invented": {
+        "U": 3.0,
+        "p_value": 0.5127,
+        "z": -0.6547,
+        "nx": 3,
+        "ny": 3
+      },
+      "mean_word_lifetime": {
+        "U": 3.0,
+        "p_value": 0.5127,
+        "z": -0.6547,
+        "nx": 3,
+        "ny": 3
+      },
+      "zipf_alpha": {
+        "U": 4.0,
+        "p_value": 0.8273,
+        "z": -0.2182,
+        "nx": 3,
+        "ny": 3
+      },
+      "heaps_beta": {
+        "U": 3.0,
+        "p_value": 0.5127,
+        "z": -0.6547,
+        "nx": 3,
+        "ny": 3
+      },
+      "max_peak_adoption": {
+        "U": 4.5,
+        "p_value": 1.0,
+        "z": 0.0,
+        "nx": 3,
+        "ny": 3
+      }
+    }
+  }
+}

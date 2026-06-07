@@ -30,5 +30,6 @@ class SimulationConfig:
     world_seed: int = 42
     personality_seed: int = 42
 
+    proposals_enabled: bool = True
     quorum_pct: float = 0.25
     vote_ticks_open: int = 8
