@@ -105,38 +105,14 @@ Agents with persistent identities, personalities, goals, and memories inhabit a 
 Watch agents interact in real time via the Flask SSE dashboard.
 
 ```bash
+pip install flask
 python run.py --agents 20 --batch 5 --port 5000
 # Open http://127.0.0.1:5000
 ```
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    🌍 WORLD MAP                              │
-│  ┌─────────────────────────────────────────────────────┐    │
-│  │  🟦🟦🟦 🟩  🟦🟦  🟩🟩  🟦  🟦🟦🟦   🟩         │    │
-│  │  🟦  🧑‍🦰  🟦🟦  🟩  🟦  ⛺  🟦  🧑  🟦  🟩 🟩      │    │
-│  │  🟦🟦 🧑  🟦  🟩  ◈  🟦  🟦🟦  🧑  🟩 🟩          │    │
-│  │  🟩🟩 🧑  🟩🟩  🟩 🟩  🧑  🧑   🟩 🟩        │    │
-│  └─────────────────────────────────────────────────────┘    │
-│                                                              │
-│  📋 CONVERSATIONS              📖 VOCABULARY                 │
-│  ┌─────────────────────┐      ┌─────────────────────┐        │
-│  │ Agent 5 → Agent 2:  │      │ lumi = "the dancing │        │
-│  │  "I found blue      │      │  light I first saw  │        │
-│  │   crystals by the   │      │  in the crystal     │        │
-│  │   river. I call     │      │  cave"              │        │
-│  │   them GLA."        │      │ veth = "the act of  │        │
-│  └─────────────────────┘      │  seeking or         │        │
-│                                │  searching"         │        │
-│  🗳️ PROPOSALS                 └─────────────────────┘        │
-│  ┌─────────────────────┐                                      │
-│  │ 📜 "Foundational    │      📈 METRICS                      │
-│  │    Laws for         │      Vocab: 83  │██░░░░░░░░│        │
-│  │    Fairness"        │      Norms: 1   │█░░░░░░░░░│        │
-│  │    ✅ 4 YEA · ❌ 0 NAY│    Votes: 12  │██░░░░░░░░│        │
-│  └─────────────────────┘                                      │
-└─────────────────────────────────────────────────────────────┘
-```
+The dashboard renders a live world map, conversations, proposals, vocabulary, and metrics — all streaming via Server-Sent Events:
+
+<img src="experiments/voting_vs_baseline/dashboard_mockup.svg" alt="Emergence Observatory live dashboard" width="100%" max-width="900">
 
 ### Dashboard Panels
 
