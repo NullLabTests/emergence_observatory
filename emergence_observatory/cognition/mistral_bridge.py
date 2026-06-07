@@ -47,8 +47,8 @@ class MistralBridge:
         self.rate_limiter = RateLimiter(rate_limit_rpm)
         self.stats = {"calls": 0, "retries": 0, "failures": 0}
 
-    def reason(self, system_prompt: str, user_prompt: str = "") -> dict | None:
-        """Send a prompt to the LLM and return the parsed JSON response."""
+    def _chat(self, system_prompt: str, user_prompt: str = "") -> str | None:
+        """Low-level chat completion. Returns raw content string or None."""
         for attempt in range(self.retry_max):
             self.rate_limiter.wait()
             try:
@@ -72,14 +72,22 @@ class MistralBridge:
                     time.sleep(2.0 * (attempt + 1))
                     continue
                 resp.raise_for_status()
-                content = resp.json()["choices"][0]["message"]["content"]
-                return self._parse_json(content)
+                return resp.json()["choices"][0]["message"]["content"]
             except Exception:
                 self.stats["failures"] += 1
                 if attempt == self.retry_max - 1:
                     return None
                 time.sleep(1.5 * (attempt + 1))
         return None
+
+    def reason(self, system_prompt: str, user_prompt: str = "") -> dict | None:
+        """Send a prompt and return the parsed JSON response."""
+        content = self._chat(system_prompt, user_prompt)
+        return self._parse_json(content) if content else None
+
+    def reason_raw(self, system_prompt: str, user_prompt: str = "") -> str | None:
+        """Send a prompt and return the raw string response."""
+        return self._chat(system_prompt, user_prompt)
 
     def _headers(self) -> dict:
         h = {"Content-Type": "application/json"}

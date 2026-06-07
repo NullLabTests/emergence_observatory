@@ -12,15 +12,14 @@ def main() -> None:
     parser.add_argument("--agents", type=int, default=100, help="Number of agents")
     parser.add_argument("--width", type=int, default=80, help="World width")
     parser.add_argument("--height", type=int, default=60, help="World height")
-    parser.add_argument("--batch", type=int, default=20, help="Agents acting per tick")
-    parser.add_argument("--tick-interval", type=float, default=3.0, help="Seconds between ticks")
+    parser.add_argument("--batch", type=int, default=10, help="Agents acting per tick")
+    parser.add_argument("--tick-interval", type=float, default=2.0, help="Seconds between ticks")
     parser.add_argument("--port", type=int, default=5000, help="HTTP port")
-    parser.add_argument("--max-ticks", type=int, default=10000, help="Maximum ticks")
+    parser.add_argument("--max-ticks", type=int, default=200, help="Maximum ticks (set 10000 for infinite)")
     parser.add_argument("--model", default="mistral-large-latest", help="Mistral model name")
     parser.add_argument("--rpm", type=int, default=120, help="LLM rate limit (requests/min)")
     parser.add_argument("--no-llm", action="store_true", help="Disable LLM (dry-run)")
     parser.add_argument("--no-viz", action="store_true", help="Headless mode (no web server)")
-    parser.add_argument("--serper", action="store_true", help="Enable Serper web research")
     parser.add_argument("--quorum", type=float, default=0.25, help="Vote quorum fraction")
     parser.add_argument("--vote-ticks", type=int, default=8, help="Ticks before vote closes")
     args = parser.parse_args()
@@ -37,8 +36,6 @@ def main() -> None:
         mistral_model=args.model,
         llm_rate_limit_rpm=args.rpm,
         llm_enabled=not args.no_llm,
-        serper_api_key=os.environ.get("SERPER_API_KEY", ""),
-        serper_enabled=args.serper,
         viz_port=args.port,
         quorum_pct=args.quorum,
         vote_ticks_open=args.vote_ticks,
@@ -54,7 +51,7 @@ def main() -> None:
     print(f"  Emergence Observatory — LLM Society Laboratory")
     print(f"  {config.num_agents} agents on {config.world_width}x{config.world_height} world")
     print(f"  {config.agents_per_tick} agents/tick — est. {total_calls} LLM calls over {config.max_ticks} ticks ({estimated_min:.0f} min)")
-    print(f"  LLM: {config.mistral_model} @ {config.llm_rate_limit_rpm} RPM | Serper: {'ON' if args.serper else 'OFF'}")
+    print(f"  LLM: {config.mistral_model} @ {config.llm_rate_limit_rpm} RPM | Research: built-in LLM")
     print(f"  Voting: quorum {config.quorum_pct*100:.0f}%, {config.vote_ticks_open}t open")
 
     if args.no_viz:

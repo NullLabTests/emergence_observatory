@@ -142,7 +142,7 @@ flowchart TB
         CS[cognition_service.py<br/>Prompt builder, dispatch]
         PR[prompts.py<br/>System prompts, action templates]
         PS[proposal_system.py<br/>Voting registry, quorum]
-        SB[serper_bridge.py<br/>Web search integration]
+        SB[serper_bridge.py<br/>LLM-powered research]
     end
 
     subgraph Memory["memory/"]
@@ -350,6 +350,25 @@ Comparing governance-enabled agents (voting with quorum) against a baseline wher
 
 See [`papers/preliminary_findings.md`](papers/preliminary_findings.md) for full results, limitations, and next-step recommendations.
 
+### Running the Test Suite
+
+```bash
+pip install pytest
+python -m pytest tests/ -v
+```
+
+### Performance Expectations
+
+Each LLM call takes **~1.5–2.5 seconds** including API latency. With the default 300 RPM rate limit:
+
+| Configuration | LLM calls | Estimated wall time |
+|---|---|---|
+| 10 seeds × 50 ticks × 10 agents/tick | 5,000 | ~4 hours |
+| 3 seeds × 20 ticks × 5 agents/tick | 300 | ~15 min |
+| 20 agents · 200 ticks · 5 batch (headless) | 1,000 | ~40 min |
+
+All runs write per-tick CSV metrics and a replay JSONL to disk.
+
 ### Running Your Own Experiment
 
 ```bash
@@ -454,15 +473,16 @@ Open **http://127.0.0.1:5000** to watch the lab in real time.
 | `--agents` | `50` | Population size |
 | `--width` | `80` | World width |
 | `--height` | `60` | World height |
-| `--batch` | `3` | Agents acting per tick (higher = more LLM calls/tick) |
-| `--tick-interval` | `1.5` | Seconds between ticks |
+| `--batch` | `10` | Agents acting per tick (higher = more LLM calls/tick) |
+
 | `--model` | `mistral-large-latest` | Mistral model name |
 | `--rpm` | `30` | LLM API rate limit |
 | `--no-llm` | off | Dry-run with random actions (no API cost) |
 | `--port` | `5000` | Dashboard HTTP port |
 | `--vote-ticks` | `6` | Ticks a proposal stays open |
 | `--quorum` | `0.25` | Fraction of agents needed to close a proposal |
-| `--serper-key` | — | Serper.dev API key for real web search |
+| `--max-ticks` | `200` | Maximum ticks (set `10000` for infinite) |
+| `--tick-interval` | `2.0` | Seconds between ticks |
 
 <hr>
 
@@ -479,7 +499,7 @@ emergence_observatory/
 │   ├── cognition_service.py       # Shared LLM service — prompt builder, dispatcher
 │   ├── prompts.py                 # System prompts and action templates
 │   ├── proposal_system.py         # Voting registry, quorum, norm tracking
-│   └── serper_bridge.py           # Web search integration (serper.dev)
+│   └── serper_bridge.py           # LLM-based research (no external API needed)
 ├── memory/
 │   └── memory_store.py            # JSON-file-backed persistence
 ├── metrics/

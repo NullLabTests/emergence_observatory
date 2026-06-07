@@ -21,9 +21,6 @@ class SimulationConfig:
     llm_timeout: float = 20.0
     llm_enabled: bool = True
 
-    serper_api_key: Optional[str] = None
-    serper_enabled: bool = False
-
     memory_path: str = "data/memory"
     replay_path: str = "data/replay"
 

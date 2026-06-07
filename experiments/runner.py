@@ -151,18 +151,31 @@ def run_experiment(
                 w.writeheader()
                 w.writerows(results)
 
-    # Write comparison summary
+    # Write comparison summary with statistics
     comp_path = base / "comparison.json"
     comparison = {}
     for label, results in all_results.items():
         if not results:
             continue
         keys = [k for k in results[0].keys() if k not in ("seed", "label")]
-        means = {}
+        stats = {}
+        n = len(results)
         for k in keys:
             vals = [r[k] for r in results if isinstance(r[k], (int, float))]
-            means[k] = round(sum(vals) / len(vals), 2) if vals else 0
-        comparison[label] = {"runs": len(results), "mean": means}
+            if not vals:
+                continue
+            mean = sum(vals) / n
+            variance = sum((v - mean) ** 2 for v in vals) / n
+            std = variance ** 0.5
+            ci95 = 1.96 * std / (n ** 0.5)
+            stats[k] = {
+                "mean": round(mean, 2),
+                "std": round(std, 2),
+                "ci95": round(ci95, 2),
+                "min": round(min(vals), 2),
+                "max": round(max(vals), 2),
+            }
+        comparison[label] = {"runs": n, "stats": stats}
 
     with open(comp_path, "w") as f:
         json.dump(comparison, f, indent=2)
@@ -170,8 +183,10 @@ def run_experiment(
     print(f"\n  === Comparison ===", flush=True)
     for label, data in comparison.items():
         print(f"  [{label}] {data['runs']} runs", flush=True)
-        for k, v in data["mean"].items():
-            print(f"    {k}: {v}", flush=True)
+        for k, s in data["stats"].items():
+            if k in ("vocab_size", "total_words_invented", "passed_norms", "num_alliances", "total_votes", "total_research", "mean_word_lifetime", "max_word_lifetime", "llm_calls", "llm_failures"):
+                print(f"    {k}: {s['mean']} ± {s['ci95']} (std={s['std']}) [{s['min']}–{s['max']}]", flush=True)
+        print(flush=True)
 
     print(f"\n  Data: {base}", flush=True)
 
@@ -179,10 +194,10 @@ def run_experiment(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--name", default="voting_vs_baseline")
-    parser.add_argument("--runs", type=int, default=5)
-    parser.add_argument("--ticks", type=int, default=30)
+    parser.add_argument("--runs", type=int, default=10)
+    parser.add_argument("--ticks", type=int, default=50)
     parser.add_argument("--agents", type=int, default=20)
-    parser.add_argument("--batch", type=int, default=8)
+    parser.add_argument("--batch", type=int, default=10)
     parser.add_argument("--rpm", type=int, default=300)
     args = parser.parse_args()
 

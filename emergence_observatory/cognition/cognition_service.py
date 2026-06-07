@@ -2,12 +2,17 @@ from __future__ import annotations
 from typing import Optional
 
 from .mistral_bridge import MistralBridge
-from .serper_bridge import SerperBridge
+from .serper_bridge import LLMResearcher
 from .prompts import AGENT_SYSTEM_PROMPT
 
 
 class CognitionService:
-    """Shared LLM cognition service with web research capability."""
+    """Shared LLM cognition service with built-in research capability.
+
+    Research uses the LLM's own pre-training knowledge — no external
+    web search API key needed.  The model generates plausible,
+    grounded findings on any topic from its training data.
+    """
 
     def __init__(self, config):
         self.config = config
@@ -18,14 +23,14 @@ class CognitionService:
             retry_max=config.llm_retry_max,
             timeout=config.llm_timeout,
         )
-        self.serper = SerperBridge(api_key=config.serper_api_key)
+        self.researcher = LLMResearcher(self.bridge)
 
     def decide(self, agent) -> dict | None:
         prompt = self._build_prompt(agent)
         return self.bridge.reason(prompt)
 
     def research(self, query: str) -> list[dict]:
-        return self.serper.search(query)
+        return self.researcher.search(query)
 
     def _build_prompt(self, agent) -> str:
         loc = agent.world.get_location(agent.x, agent.y)
