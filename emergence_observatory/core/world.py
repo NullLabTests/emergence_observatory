@@ -71,6 +71,7 @@ class World:
         self.norms: list[dict] = []
         self.groups: dict[int, dict] = {}
         self._next_group_id = 1
+        self._agent_cache: dict[int, object] = {}  # populated by simulation
         self._generate()
 
     def _generate(self) -> None:
@@ -131,8 +132,14 @@ class World:
 
     def nearby_agents(self, x: int, y: int, radius: int = 5, exclude: int = -1) -> list:
         from .agent import Agent
-        # This is populated by the simulation
-        return []
+        result = []
+        for aid, agent in self._agent_cache.items():
+            if aid == exclude:
+                continue
+            if math.hypot(agent.x - x, agent.y - y) <= radius:
+                result.append(agent)
+        result.sort(key=lambda a: math.hypot(a.x - x, a.y - y))
+        return result
 
     def distance(self, x1: int, y1: int, x2: int, y2: int) -> float:
         return math.hypot(x2 - x1, y2 - y1)

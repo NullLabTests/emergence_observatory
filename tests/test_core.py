@@ -27,6 +27,18 @@ class TestWorld:
         w = World(50, 40, seed=1)
         assert w.distance(0, 0, 3, 4) == 5.0
 
+    def test_nearby_agents(self):
+        w = World(50, 40, seed=1)
+        rng = random.Random(42)
+        from emergence_observatory.core.agent import Agent
+        a1 = Agent.create(0, 10, 10, 0, rng)
+        a2 = Agent.create(1, 12, 10, 0, rng)  # within radius 6
+        a3 = Agent.create(2, 30, 30, 0, rng)  # outside radius 6
+        w._agent_cache = {0: a1, 1: a2, 2: a3}
+        nearby = w.nearby_agents(10, 10, radius=6, exclude=0)
+        assert len(nearby) == 1
+        assert nearby[0].agent_id == 1
+
 
 class TestAgent:
     def test_create(self):

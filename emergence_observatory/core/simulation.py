@@ -58,6 +58,7 @@ class Simulation:
     def step(self) -> dict:
         self.tick += 1
         self.world.regenerate()
+        self.world._agent_cache = dict(self.agents)
 
         active = [a for a in self.agents.values() if a.status == "active"]
         self.rng.shuffle(active)

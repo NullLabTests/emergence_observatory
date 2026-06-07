@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/LLM-Mistral%20Large-FF6F00?style=for-the-badge" alt="Mistral LLM"/>
   <img src="https://img.shields.io/badge/agents-persistent-success?style=for-the-badge" alt="Persistent agents"/>
   <img src="https://img.shields.io/badge/state-JSONL-blue?style=for-the-badge" alt="JSONL persistence"/>
+  <img src="https://img.shields.io/badge/CI-passing-green?style=for-the-badge&logo=githubactions" alt="CI passing"/>
   <img src="https://img.shields.io/badge/agents-15--50-9cf?style=for-the-badge" alt="15-50 agents"/>
   <img src="https://img.shields.io/badge/ticks-20--100%2B-ff69b4?style=for-the-badge" alt="20-100+ ticks"/>
   <img src="https://img.shields.io/badge/status-experimental-purple?style=for-the-badge" alt="Experimental"/>
@@ -16,6 +17,8 @@
 
 <h1 align="center">🔬 Emergence Observatory</h1>
 <p align="center"><em>An LLM-native multi-agent laboratory for studying emergent social behavior — vocabulary formation, proposals and voting, knowledge sharing, and group dynamics through real Mistral API calls.</em></p>
+
+> **Recent:** Semantic drift tracking (meanings evolve through LLM reinterpretation), parallel multi-seed runner, linguistic analysis (Zipf/Heaps), contagion modeling, auto LaTeX reporting, CI pipeline, and a live Flask dashboard. [See full changelog](https://github.com/NullLabTests/emergence_observatory/commits/main).
 
 <p align="center">
   <a href="#-what-this-is">About</a> ·
@@ -100,30 +103,30 @@ Agents with persistent identities, personalities, goals, and memories inhabit a 
 
 <hr>
 
-## 📊 Live Demo
+## 📊 Live Dashboard
 
-Watch agents interact in real time via the Flask SSE dashboard.
+A real-time Flask SSE dashboard at `http://127.0.0.1:5000` — all three files in `viz/` are fully implemented and wired to the simulation:
 
 ```bash
 pip install flask
-python run.py --agents 20 --batch 5 --port 5000
+python run.py --agents 20 --batch 5
 # Open http://127.0.0.1:5000
 ```
 
-The dashboard renders a live world map, conversations, proposals, vocabulary, and metrics — all streaming via Server-Sent Events:
+The dashboard streams live snapshots via Server-Sent Events — agent positions, metrics, conversations, proposals, knowledge topics — all updating in real time:
 
 <img src="experiments/voting_vs_baseline/dashboard_mockup.svg" alt="Emergence Observatory live dashboard" width="100%" max-width="900">
 
 ### Dashboard Panels
 
-| Panel | Real-Time Data |
+| Panel | Data Source |
 |---|---|
-| **World map** | Agent positions, resource tiles, movement trails, named locations |
-| **Conversation log** | Every utterance verbatim with speaker, target, reasoning |
-| **Vocabulary tracker** | New words, definitions, adoption counts, survival timer |
+| **World map** | Canvas rendering of agent positions, color-coded by energy |
+| **Conversation log** | Every utterance verbatim with speaker and reasoning |
+| **Vocabulary tracker** | Invented words with definitions and adoption counts |
 | **Proposal board** | Open/closed proposals, YEA/NAY counts, passed norms |
-| **Social graph** | Affinity-weighted edges, alliance clusters |
-| **Metrics panel** | Vocab growth, word lifetime histogram, group count, energy over ticks |
+| **Metric cards** | Tick, agents, energy, vocab size, groups, norms, research, votes |
+| **Knowledge topics** | Hivemind contribution topics |
 
 <hr>
 
@@ -251,7 +254,7 @@ Every decision is structured JSON returned by the LLM:
 | `gather` | Collect resources | `→ +3 wood, +1 stone` |
 | `remember` | Consolidate a memory | `→ "The light taught me awareness"` |
 | `teach` | Share knowledge (with optional meaning — enables semantic drift) | `→ Agent 7 learns "lumi" as "shimmering light"` |
-| `follow` | Tail another agent | `→ Following Agent 3` |
+| `follow` | Follow a nearby agent | `→ Following Agent 3` |
 | `share_resource` | Give resources | `→ Gives 2 wood to Agent 8` |
 | `invent_word` | Create a word with a meaning | `→ "veth" = "the act of seeking or searching"` |
 | `cooperate` | Form an alliance | `→ Alliance with Agent 9` |
@@ -330,7 +333,31 @@ Each LLM call takes ~1.5–2.5s. With 300 RPM and 4 parallel workers:
 | 10 seeds × 50 ticks | 5,000 | ~4 h | ~1 h |
 | 3 seeds × 20 ticks | 300 | ~15 min | ~5 min |
 
-All runs write per-seed CSV metrics, novelty ledger JSON, drift snapshots, and a comparison summary to disk.
+All runs write per-seed CSV metrics, novelty ledger JSON, drift snapshots (per-tick meaning maps), and a comparison summary to disk.
+
+### Full Analysis Pipeline
+
+After an experiment completes, generate all outputs with:
+
+```bash
+# Linguistic stats + between-condition tests
+python experiments/linguistic_analysis.py -d experiments/<name>
+
+# Semantic drift: meaning consensus, drift magnitude
+python experiments/semantic_drift.py -d experiments/<name>
+
+# Contagion: SIR adoption curves, growth rate
+python experiments/contagion.py -d experiments/<name>
+
+# Matplotlib charts (vocab growth, comparison bars, adoption)
+python scripts/plot_results.py -d experiments/<name>
+
+# LaTeX tables for paper
+python papers/generate_report.py -d experiments/<name>
+pdflatex experiments/<name>/report.tex
+```
+
+All analysis tools produce structured JSON + human-readable terminal output.
 
 <hr>
 
@@ -419,18 +446,18 @@ Open **http://127.0.0.1:5000** to watch the lab in real time.
 
 | Flag | Default | Description |
 |---|---|---|
-| `--agents` | `50` | Population size |
+| `--agents` | `100` | Population size |
 | `--width` | `80` | World width |
 | `--height` | `60` | World height |
 | `--batch` | `10` | Agents acting per tick (higher = more LLM calls/tick) |
-
-| `--model` | `mistral-large-latest` | Mistral model name |
-| `--rpm` | `30` | LLM API rate limit |
-| `--no-llm` | off | Dry-run with random actions (no API cost) |
-| `--port` | `5000` | Dashboard HTTP port |
-| `--vote-ticks` | `6` | Ticks a proposal stays open |
-| `--quorum` | `0.25` | Fraction of agents needed to close a proposal |
 | `--max-ticks` | `200` | Maximum ticks (set `10000` for infinite) |
+| `--model` | `mistral-large-latest` | Mistral model name |
+| `--rpm` | `120` | LLM API rate limit |
+| `--no-llm` | off | Disable LLM (dry-run with no API cost) |
+| `--no-viz` | off | Headless mode (no web server, CLI output) |
+| `--port` | `5000` | Dashboard HTTP port |
+| `--vote-ticks` | `8` | Ticks a proposal stays open |
+| `--quorum` | `0.25` | Fraction of agents needed to close a proposal |
 | `--tick-interval` | `2.0` | Seconds between ticks |
 
 <hr>
@@ -469,18 +496,28 @@ emergence_observatory/          # Python package (root)
 │   ├── semantic_drift.py       # DriftRecorder + meaning drift analysis
 │   ├── contagion.py            # SIR adoption curves, growth rate
 │   └── voting_vs_baseline/     # Experiment 1 data and SVGs
+├── scripts/
+│   └── plot_results.py         # Matplotlib charts from experiment output
 ├── papers/
-│   └── preliminary_findings.md
+│   ├── preliminary_findings.md
+│   └── generate_report.py      # LaTeX table generator
 ├── tests/                      # 17 tests (pytest)
 │   ├── test_core.py
 │   ├── test_experiments.py
 │   └── test_research.py
-├── .github/workflows/test.yml  # CI pipeline
+├── .github/workflows/test.yml  # CI pipeline (GitHub Actions)
 ├── run.py                      # CLI entry point
 └── setup.py                    # pip installable
 ```
 
 <hr>
+
+## 🔧 Notable Fixes
+
+- **`nearby_agents()` no longer returns empty** — The LLM prompt now correctly lists agents within 6 tiles. Previously this always returned `[]`, meaning agents were socially blind. Simulation now populates `world._agent_cache` each tick.
+- **`serper_bridge.py`** — Uses LLM knowledge directly (no external API). Fixed `reason_raw()` keyword argument mismatch.
+- **Semantic drift** — `teach` action now accepts an optional `meaning` param from the LLM, enabling telephone-game meaning evolution. Previously meanings were copied verbatim.
+- **`invent_word`** — No longer blocked by vocabulary; agents can assign their own meanings to words heard in speech.
 
 ## 🧪 Extensibility
 
