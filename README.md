@@ -78,7 +78,7 @@ Agents with persistent identities, personalities, goals, and memories inhabit a 
 </tr>
 <tr>
 <td><b>📚 Knowledge sharing</b></td>
-<td>Research findings, hivemind contributions, information propagation</td>
+<td>LLM-powered research findings, hivemind contributions, information propagation</td>
 <td><code>cognition/serper_bridge.py</code></td>
 </tr>
 <tr>
@@ -250,17 +250,17 @@ Every decision is structured JSON returned by the LLM:
 | `speak` | Communicate with an agent | `→ Agent 2: "I found blue crystals by the river"` |
 | `gather` | Collect resources | `→ +3 wood, +1 stone` |
 | `remember` | Consolidate a memory | `→ "The light taught me awareness"` |
-| `teach` | Share knowledge | `→ Agent 7 learns "lumi"` |
+| `teach` | Share knowledge (with optional meaning — enables semantic drift) | `→ Agent 7 learns "lumi" as "shimmering light"` |
 | `follow` | Tail another agent | `→ Following Agent 3` |
 | `share_resource` | Give resources | `→ Gives 2 wood to Agent 8` |
-| `invent_word` | Create a word | `→ "veth" = "the act of seeking or searching"` |
-| `cooperate` | Collaborate | `→ Cooperates on building` |
+| `invent_word` | Create a word with a meaning | `→ "veth" = "the act of seeking or searching"` |
+| `cooperate` | Form an alliance | `→ Alliance with Agent 9` |
 | `propose` | Submit a governance norm | `→ "Foundational Laws for Fairness and Loyalty"` |
 | `vote` | Cast a vote | `→ YEA on proposal #2` |
-| `research` | Search the web | `→ "what is light" → 3 findings` |
-| `hivemind` | Share knowledge | `→ Contributes to shared pool` |
-| `form_group` | Propose a group | `→ "Let us form the Explorers Guild"` |
-| `join_group` | Join a group | `→ Joins group #1` |
+| `research` | Research via LLM's training knowledge | `→ "what is light" → 3 findings` |
+| `hivemind` | Share knowledge with collective | `→ Contributes to shared pool` |
+| `form_group` | Propose a social group | `→ "Let us form the Explorers Guild"` |
+| `join_group` | Join an existing group | `→ Joins group #1` |
 | `ignore` | Do nothing | `→ Waits` |
 
 </details>
@@ -271,117 +271,66 @@ Every decision is structured JSON returned by the LLM:
 
 Controlled experiments live in [`experiments/`](experiments/). Each experiment varies one parameter, runs **3+ seeds per condition**, and writes per-seed metrics + a novelty ledger + summary CSVs.
 
-### Latest: Voting vs Baseline
+### Experiments
 
-Comparing governance-enabled agents (voting with quorum) against a baseline where proposals never close.
+Controlled experiments compare three governance conditions:
 
-**Vocabulary Growth Over Time (6 seeds, 15 agents each, 20 ticks):**
+| Condition | `proposals_enabled` | `vote_ticks_open` | What it measures |
+|---|---|---|---|
+| `no_proposals` | `false` | — | Baseline without any governance deliberation |
+| `baseline` | `true` | `9999` | Deliberation without enactment (proposals never close) |
+| `voting` | `true` | `6` (quorum 25%) | Full deliberation + enactment |
 
-<img src="experiments/voting_vs_baseline/vocab_growth.svg" alt="Vocabulary growth across all 6 experiment seeds" width="100%" max-width="800">
+### Latest: Voting vs Baseline (6 seeds, 15 agents, 20 ticks)
 
-**Key Metrics Comparison:**
+<img src="experiments/voting_vs_baseline/vocab_growth.svg" alt="Vocabulary growth" width="100%" max-width="800">
+<img src="experiments/voting_vs_baseline/comparison_chart.svg" alt="Metrics comparison" width="100%" max-width="700">
 
-<img src="experiments/voting_vs_baseline/comparison_chart.svg" alt="Baseline vs voting metrics comparison" width="100%" max-width="700">
+| Metric | Baseline (3 runs) | Voting (3 runs) | Interpretation |
+|---|---|---|---|
+| Vocab size (tick 20) | **86.3** | 78.3 | Similar linguistic capacity |
+| Words invented | **11.3** | 11.0 | Voting does not suppress creativity |
+| Mean word lifetime | 16.2 | 15.8 | No extinction yet (short run) |
+| Passed norms | 0.0 | **0.33** | Voting enables governance |
+| Alliances / Groups | 0 | 0 | Need longer runs |
+| LLM failures | **0** | **0** | Zero across 600 calls |
 
-<table>
-<tr>
-<th>Metric</th>
-<th style="border-bottom:3px solid #4a9eff">Baseline (3 runs)</th>
-<th style="border-bottom:3px solid #4caf50">Voting (3 runs)</th>
-<th>Interpretation</th>
-</tr>
-<tr>
-<td>Vocabulary size (tick 20)</td>
-<td align="center"><b>86.3</b></td>
-<td align="center">78.3</td>
-<td>Similar linguistic capacity in both conditions</td>
-</tr>
-<tr>
-<td>Words invented</td>
-<td align="center"><b>11.3</b></td>
-<td align="center">11.0</td>
-<td>Voting does not suppress linguistic creativity</td>
-</tr>
-<tr>
-<td>Mean word lifetime</td>
-<td align="center">16.2 ticks</td>
-<td align="center">15.8 ticks</td>
-<td>Words persist throughout run; no extinction yet</td>
-</tr>
-<tr>
-<td>Passed norms</td>
-<td align="center">0.0</td>
-<td align="center" style="color:#4caf50;font-weight:bold;font-size:1.1em">0.33</td>
-<td><b>Voting enables governance — 1 of 3 runs passed a norm</b></td>
-</tr>
-<tr>
-<td>Research findings</td>
-<td align="center">137.0</td>
-<td align="center">136.0</td>
-<td>Equivalent across conditions</td>
-</tr>
-<tr>
-<td>Votes cast</td>
-<td align="center">10.3</td>
-<td align="center">10.0</td>
-<td>Similar engagement with proposals</td>
-</tr>
-<tr>
-<td>Alliances / Groups</td>
-<td align="center">0</td>
-<td align="center">0</td>
-<td>Did not form within 20 ticks (needs longer runs)</td>
-</tr>
-<tr>
-<td>LLM calls</td>
-<td align="center">100</td>
-<td align="center">100</td>
-<td>Identical API budget</td>
-</tr>
-<tr>
-<td>LLM failures</td>
-<td align="center" style="color:#4caf50;font-weight:bold">0</td>
-<td align="center" style="color:#4caf50;font-weight:bold">0</td>
-<td>Zero failures across 600 calls</td>
-</tr>
-</table>
+**Key finding:** Voting enables norm passage without suppressing linguistic innovation. See [`papers/preliminary_findings.md`](papers/preliminary_findings.md).
 
-**Key finding:** Voting-enabled agents successfully passed governance norms; the baseline passed 0 by design. Vocabulary formation was near-identical, showing that democratic deliberation does not crowd out linguistic innovation. Zero LLM failures across all 600 API calls.
+### Analysis Tools
 
-See [`papers/preliminary_findings.md`](papers/preliminary_findings.md) for full results, limitations, and next-step recommendations.
-
-### Running the Test Suite
+After an experiment completes, run the analysis pipeline:
 
 ```bash
-pip install pytest
-python -m pytest tests/ -v
+# Linguistic: Zipf α, Heaps β, between-condition Mann-Whitney U
+python experiments/linguistic_analysis.py -d experiments/<name>
+
+# Semantic drift: meaning consensus, drift magnitude, propagation
+python experiments/semantic_drift.py -d experiments/<name>
+
+# Contagion: SIR adoption curves, growth rate, carrying capacity
+python experiments/contagion.py -d experiments/<name>
 ```
 
-### Performance Expectations
+### Parallel Runner
 
-Each LLM call takes **~1.5–2.5 seconds** including API latency. With the default 300 RPM rate limit:
-
-| Configuration | LLM calls | Estimated wall time |
-|---|---|---|
-| 10 seeds × 50 ticks × 10 agents/tick | 5,000 | ~4 hours |
-| 3 seeds × 20 ticks × 5 agents/tick | 300 | ~15 min |
-| 20 agents · 200 ticks · 5 batch (headless) | 1,000 | ~40 min |
-
-All runs write per-tick CSV metrics and a replay JSONL to disk.
-
-### Running Your Own Experiment
+Run seeds in parallel across CPU cores (cuts wall time by ~workers):
 
 ```bash
-python -m experiments.runner \
-  --name my_experiment \
-  --runs 5 \
-  --ticks 30 \
-  --agents 20 \
-  --batch 5 \
-  --rpm 300
+python experiments/parallel_runner.py --name my_experiment \
+  --runs 10 --ticks 50 --agents 20 --batch 10 --workers 4
 ```
 
-This runs 5 seeds for each condition (baseline + voting) and writes per-seed CSV metrics, novelty ledger JSON, and a summary comparison to `experiments/my_experiment/`.
+### Performance
+
+Each LLM call takes ~1.5–2.5s. With 300 RPM and 4 parallel workers:
+
+| Configuration | LLM calls | Wall time (sequential) | Wall time (4 workers) |
+|---|---|---|---|
+| 10 seeds × 50 ticks | 5,000 | ~4 h | ~1 h |
+| 3 seeds × 20 ticks | 300 | ~15 min | ~5 min |
+
+All runs write per-seed CSV metrics, novelty ledger JSON, drift snapshots, and a comparison summary to disk.
 
 <hr>
 
@@ -489,35 +438,46 @@ Open **http://127.0.0.1:5000** to watch the lab in real time.
 ## 📁 Project Structure
 
 ```
-emergence_observatory/
-├── core/                          # Core simulation engine
-│   ├── agent.py                   # Persistent agent model
-│   ├── world.py                   # Grid world with resources and locations
-│   └── simulation.py              # Tick loop orchestration
-├── cognition/                     # LLM integration
-│   ├── mistral_bridge.py          # Mistral API client with rate limiting & retry
-│   ├── cognition_service.py       # Shared LLM service — prompt builder, dispatcher
-│   ├── prompts.py                 # System prompts and action templates
-│   ├── proposal_system.py         # Voting registry, quorum, norm tracking
-│   └── serper_bridge.py           # LLM-based research (no external API needed)
-├── memory/
-│   └── memory_store.py            # JSON-file-backed persistence
-├── metrics/
-│   └── collector.py               # Emergence metrics — vocab, norms, groups
-├── replay/
-│   ├── recorder.py                # JSONL interaction log
-│   └── player.py                  # Post-hoc replay viewer
-├── viz/
-│   ├── app.py                     # Flask SSE server
-│   ├── templates/index.html       # Dashboard HTML
-│   └── static/viz.js              # Client-side visualization
-├── experiments/
-│   ├── runner.py                  # Multi-seed experiment orchestrator
-│   ├── novelty_ledger.py          # Word lifecycle tracker (birth → extinction)
-│   └── voting_vs_baseline/        # Experiment 1: raw data and SVGs
+emergence_observatory/          # Python package (root)
+├── emergence_observatory/      # Source package
+│   ├── core/                   # Core simulation engine
+│   │   ├── agent.py            # Persistent agent model
+│   │   ├── world.py            # Grid world with resources and locations
+│   │   └── simulation.py       # Tick loop orchestration
+│   ├── cognition/              # LLM integration
+│   │   ├── mistral_bridge.py   # Mistral API client with rate limiting & retry
+│   │   ├── cognition_service.py # Shared LLM service — prompt builder, dispatcher
+│   │   ├── prompts.py          # System prompts and action templates
+│   │   ├── proposal_system.py  # Voting registry, quorum, norm tracking
+│   │   └── serper_bridge.py    # LLM-powered research (no external API)
+│   ├── memory/
+│   │   └── memory_store.py     # JSON-file-backed persistence
+│   ├── metrics/
+│   │   └── collector.py        # Emergence metrics — vocab, norms, groups
+│   ├── replay/
+│   │   ├── recorder.py         # JSONL interaction log
+│   │   └── player.py           # Post-hoc replay viewer
+│   └── viz/                    # Flask SSE dashboard (live)
+│       ├── app.py              # Flask SSE server
+│       ├── templates/index.html
+│       └── static/viz.js
+├── experiments/                # Experiment infrastructure
+│   ├── runner.py               # Multi-seed orchestrator (3 conditions)
+│   ├── parallel_runner.py      # Multi-process version (workers=N)
+│   ├── novelty_ledger.py       # Word lifecycle tracker
+│   ├── linguistic_analysis.py  # Zipf α, Heaps β, Mann-Whitney U
+│   ├── semantic_drift.py       # DriftRecorder + meaning drift analysis
+│   ├── contagion.py            # SIR adoption curves, growth rate
+│   └── voting_vs_baseline/     # Experiment 1 data and SVGs
 ├── papers/
-│   └── preliminary_findings.md    # Exploratory findings and limitations
-└── run.py                         # CLI entry point
+│   └── preliminary_findings.md
+├── tests/                      # 17 tests (pytest)
+│   ├── test_core.py
+│   ├── test_experiments.py
+│   └── test_research.py
+├── .github/workflows/test.yml  # CI pipeline
+├── run.py                      # CLI entry point
+└── setup.py                    # pip installable
 ```
 
 <hr>
@@ -579,6 +539,26 @@ emergence_observatory/
 <td><b>🧪 Experiment library</b></td>
 <td>Add new experiment configurations in <code>experiments/</code></td>
 <td><code>experiments/runner.py</code></td>
+</tr>
+<tr>
+<td><b>📈 Semantic drift</b></td>
+<td>Track meaning evolution; LLM reinterprets on teach — telephone-game effect</td>
+<td><code>experiments/semantic_drift.py</code>, <code>core/simulation.py</code></td>
+</tr>
+<tr>
+<td><b>🦠 Contagion analysis</b></td>
+<td>Fit SIR models to norm/word adoption curves; critical mass detection</td>
+<td><code>experiments/contagion.py</code></td>
+</tr>
+<tr>
+<td><b>📊 Auto-reporting</b></td>
+<td>LaTeX table generation + matplotlib plots from experiment output</td>
+<td><code>papers/generate_report.py</code>, <code>scripts/plot_results.py</code></td>
+</tr>
+<tr>
+<td><b>⚡ Parallel execution</b></td>
+<td>Multi-process seed runner for faster experimentation</td>
+<td><code>experiments/parallel_runner.py</code></td>
 </tr>
 </table>
 
