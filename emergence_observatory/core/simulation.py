@@ -187,7 +187,14 @@ class Simulation:
                 target = self.agents[target_id]
                 target.learn_word(word)
                 if word in agent.invented_words:
-                    target.invented_words[word] = agent.invented_words[word]
+                    # If the LLM provided a meaning, use it (semantic drift!)
+                    # Otherwise fall back to verbatim copy
+                    drift_meaning = str(params.get("meaning", "")).strip()
+                    if drift_meaning:
+                        target.invented_words[word] = drift_meaning
+                    else:
+                        target.invented_words[word] = agent.invented_words[word]
+                    target.vocabulary.add(word)
                 agent.adjust_relationship(target_id, 0.5)
                 target.adjust_relationship(agent.agent_id, 0.4)
                 result["message"] = f"Taught '{word}' to Agent {target_id}."
@@ -221,7 +228,7 @@ class Simulation:
         elif action == "invent_word":
             word = str(params.get("word", "")).lower().strip()[:30]
             meaning = str(params.get("meaning", ""))[:100]
-            if word and word not in agent.invented_words and word not in agent.vocabulary:
+            if word and word not in agent.invented_words:
                 agent.invented_words[word] = meaning
                 agent.learn_word(word)
                 result["message"] = f"Invented '{word}': {meaning}"
