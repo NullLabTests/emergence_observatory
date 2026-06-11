@@ -1,0 +1,131 @@
+{
+  "total_words_invented": 10,
+  "alive_words": 10,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 46.1,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 1,
+  "words": [
+    {
+      "word": "zorn",
+      "birth_tick": 0,
+      "birth_agent": 3,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "dara",
+      "birth_tick": 0,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "sand",
+      "birth_tick": 0,
+      "birth_agent": 6,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "vexa",
+      "birth_tick": 0,
+      "birth_agent": 10,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "dansa",
+      "birth_tick": 0,
+      "birth_agent": 19,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "veyth",
+      "birth_tick": 1,
+      "birth_agent": 2,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "unita",
+      "birth_tick": 1,
+      "birth_agent": 4,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 2,
+      "birth_agent": 11,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "glim",
+      "birth_tick": 5,
+      "birth_agent": 17,
+      "peak_adoption": 1,
+      "peak_tick": 5,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "vey",
+      "birth_tick": 20,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 20,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    }
+  ]
+}

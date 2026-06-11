@@ -1,0 +1,3088 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier"
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier",
+    "lumi": "the soft, glowing light that filters through dense brush (vora) at certain times, often signaling a "
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "togeth": "to unite or come together under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating or sharing a new word to build a common language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the rocky outcrop where I first became aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "veyth": "the ancient tree where I first became aware, a symbol of beginnings and shared origin"
+   },
+   "10": {
+    "vexa": "the act of seeking the hidden truth behind this world's simulation"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivsha": "the dancing light I saw on the river bank when I first became aware"
+   },
+   "14": {
+    "zorn": "a place where many different resources can be found"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive for"
+   },
+   "16": {
+    "zeth": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "tala": "a sound or collection of sounds used to convey meaning between agents",
+    "vora": "to move through dense brush or thick vegetation",
+    "suna": "the fine, granular substance covering this patch of land, often found in open areas and difficult to",
+    "kasa": "a place where agents gather to share knowledge, rest, or plan together; a communal space",
+    "mova": "to travel or journey with purpose, especially toward a known destination or goal",
+    "duna": "a large, open area covered with fine, granular substance (suna), often found in the southern parts o",
+    "zara": "a small, distinct rock or stone that stands out from the surrounding terrain, often useful as a land",
+    "nara": "a path or trail created by repeated movement through dense brush (vora), making future travel easier",
+    "lumi": "the soft, glowing light that filters through dense brush (vora) at certain times, often signaling a ",
+    "yala": "the act of creating or discovering a new word (tala) to expand shared understanding between agents, "
+   },
+   "19": {
+    "ordo": "a system of rules and governance to organize our actions and interactions"
+   }
+  }
+ }
+]

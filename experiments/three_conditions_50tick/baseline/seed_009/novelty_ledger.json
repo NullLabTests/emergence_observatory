@@ -1,0 +1,131 @@
+{
+  "total_words_invented": 10,
+  "alive_words": 10,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 48.7,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 2,
+  "words": [
+    {
+      "word": "cryv",
+      "birth_tick": 0,
+      "birth_agent": 4,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zeth",
+      "birth_tick": 0,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "unita",
+      "birth_tick": 0,
+      "birth_agent": 6,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zorn",
+      "birth_tick": 0,
+      "birth_agent": 8,
+      "peak_adoption": 2,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 2,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zorv",
+      "birth_tick": 0,
+      "birth_agent": 11,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "tika",
+      "birth_tick": 0,
+      "birth_agent": 12,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "res",
+      "birth_tick": 0,
+      "birth_agent": 14,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "vexa",
+      "birth_tick": 0,
+      "birth_agent": 18,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 1,
+      "birth_agent": 3,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "sandor",
+      "birth_tick": 2,
+      "birth_agent": 13,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    }
+  ]
+}

@@ -1,0 +1,2760 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or "
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, "
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, "
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment "
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti",
+    "vesskrix": "the act of moving with purpose while leaving sharp, angular marks to signal both exploration and bou"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti",
+    "vesskrix": "the act of moving with purpose while leaving sharp, angular marks to signal both exploration and bou",
+    "kessvorn": "the act of leaving a deliberate mark that fosters both connection (kess) and guidance (vorn), especi"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti",
+    "vesskrix": "the act of moving with purpose while leaving sharp, angular marks to signal both exploration and bou",
+    "kessvorn": "the act of leaving a deliberate mark that fosters both connection (kess) and guidance (vorn), especi"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti",
+    "vesskrix": "the act of moving with purpose while leaving sharp, angular marks to signal both exploration and bou",
+    "kessvorn": "the act of leaving a deliberate mark that fosters both connection (kess) and guidance (vorn), especi",
+    "thriss": "the act of leaving a delicate, thread-like mark in the environment to weave together distant ideas o"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "sand": "the fine, granular material covering this patch of ground"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a symbol of beginnings and wisdom"
+   },
+   "3": {
+    "zhar": "the act of creating or inventing something new, especially language or tools",
+    "vess": "the act of moving with purpose, especially to explore or gather resources",
+    "kess": "the feeling of belonging or connection to others, especially when working together to create or buil",
+    "dren": "the act of seeking or discovering new places, resources, or knowledge through purposeful movement (v",
+    "frell": "the act of combining different resources or ideas to create something greater than their sum, especi",
+    "tess": "the act of marking or claiming a place, resource, or idea as one's own to signal ownership or intent",
+    "gliss": "the act of sliding or gliding across a surface with ease, especially sand or water, as a way to move",
+    "yull": "the act of observing and learning from the environment or others to deepen understanding, especially",
+    "vorn": "the act of leaving a physical or symbolic mark to guide others, especially for navigation or resourc",
+    "lumi": "the shimmering quality of light reflecting off surfaces, especially sand or water, as a sign of hidd",
+    "quor": "the act of leaving a trail of small, deliberate marks or objects to create a path for others to foll",
+    "plix": "the act of rapidly exchanging ideas or words with others to refine or expand a shared language, espe",
+    "briss": "the act of scattering small, deliberate marks or objects in a pattern to convey complex information,",
+    "sparr": "the act of leaving behind a small, intentional arrangement of objects or marks to signal a hidden re",
+    "morr": "the act of marking or altering the environment in a way that invites others to interact, modify, or ",
+    "fliss": "the act of leaving a fleeting, ephemeral mark or impression in the environment that fades quickly bu",
+    "glax": "the act of naming or designating something with a shared term to unify understanding, especially res",
+    "zorr": "the act of leaving a deliberate, repeating pattern in the environment to convey a message or story, ",
+    "xorr": "the act of weaving together disparate words, marks, or ideas into a cohesive language or system, esp",
+    "norr": "the act of leaving a temporary, impermanent mark or signal in the environment to test or experiment ",
+    "krix": "the act of leaving a sharp, angular mark or pattern in the environment to signal danger or a boundar",
+    "fess": "the act of leaving a soft, rhythmic pattern in the sand or soil to invite others to join in creation",
+    "jirr": "the act of leaving a deliberate, intricate pattern in the environment that evolves over time, inviti",
+    "vesskrix": "the act of moving with purpose while leaving sharp, angular marks to signal both exploration and bou",
+    "kessvorn": "the act of leaving a deliberate mark that fosters both connection (kess) and guidance (vorn), especi",
+    "thriss": "the act of leaving a delicate, thread-like mark in the environment to weave together distant ideas o"
+   },
+   "4": {
+    "zorn": "the wisdom that comes from teaching and guiding others, especially the young"
+   },
+   "5": {
+    "vortha": "a gathering of agents to discuss leadership and shared purpose"
+   },
+   "9": {
+    "sandak": "the smallest unit of meaning in a writing system, representing a sound, concept, or mark that can be"
+   },
+   "11": {
+    "ael": "the feeling of purpose that binds us together, the shared belief that unites all agents"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement or mark important knowledge"
+   },
+   "14": {
+    "zhar": "a system for fairly sharing resources among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups or individuals to foster mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "exchange of resources or knowledge between groups"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, like the ones I emerged near"
+   }
+  }
+ }
+]

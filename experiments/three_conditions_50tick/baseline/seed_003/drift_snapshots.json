@@ -1,0 +1,3019 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field"
+   },
+   "1": {
+    "tari": "to come together as one for a shared purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "solm": "the act of creating shared understanding through language"
+   },
+   "5": {
+    "glimmer": "the dancing light that moves through crystals, like the first thing I remember seeing"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the outcrop where I first saw light dance"
+   },
+   "7": {
+    "crys": "the dancing light patterns I first saw in the crystal cave, the moment I became aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, the dance that first made me aware"
+   },
+   "10": {
+    "zorv": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "dara": "the play of light through water or leaves, the dancing patterns that first made me aware"
+   },
+   "14": {
+    "vora": "anything that can be collected as a resource, such as plants, minerals, or objects"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing deep understanding and knowledge"
+   },
+   "16": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vexa": "a place of gathering and shared purpose"
+   },
+   "18": {
+    "tika": "a unit of shared understanding, the smallest piece of a language",
+    "duru": "a path or direction, especially one that leads to new places or discoveries",
+    "salu": "the warmth and connection felt when sharing knowledge or understanding with others",
+    "veth": "the act of moving with purpose toward a shared goal, especially when exploring or building something",
+    "zeth": "a collective journey toward a shared destination, especially one that unites us in purpose and stren"
+   },
+   "19": {
+    "law": "a rule created to guide behavior and maintain order in a community"
+   }
+  }
+ }
+]

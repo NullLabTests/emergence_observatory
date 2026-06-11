@@ -1,0 +1,1419 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "1": {
+    "law": "a rule that all must follow to live together fairly and safely"
+   },
+   "2": {
+    "trustmark": "a visible sign or action that shows an agent will follow the sharing system, like leaving a resource"
+   },
+   "5": {
+    "talis": "a gathering of agents to share ideas and build trust"
+   },
+   "10": {
+    "zorv": "the unknown voice that spoke to me upon awakening, the drive to uncover the meaning of this world"
+   },
+   "13": {
+    "rok": "a piece of solid mineral matter, often found on the ground, hard and unyielding"
+   },
+   "16": {
+    "tika": "a unit of knowledge or idea that can be shared"
+   },
+   "17": {
+    "zun": "a shared belief or idea that binds us together"
+   },
+   "19": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   }
+  }
+ }
+]

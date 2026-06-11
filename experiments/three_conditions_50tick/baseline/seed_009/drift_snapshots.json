@@ -1,0 +1,1887 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "3": {
+    "rok": "the hard, solid material that makes up the ground here, often gray or brown in color"
+   },
+   "4": {
+    "cryv": "dry branches found in Crystal Cove, useful for gathering wood"
+   },
+   "5": {
+    "zeth": "the act of seeking wisdom through observation and reflection"
+   },
+   "6": {
+    "unita": "the act of bringing all agents together under a shared purpose, like the golden light that guides us"
+   },
+   "8": {
+    "zorn": "a resource that is new and unknown to me, something I must collect"
+   },
+   "11": {
+    "zorv": "the drive to seek wisdom and rare resources, like water"
+   },
+   "12": {
+    "tika": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "13": {
+    "sandor": "a rare, nourishing substance hidden beneath the surface of sandy patches, sought for sustenance"
+   },
+   "14": {
+    "res": "anything that can be gathered, used, or shared as a resource"
+   },
+   "18": {
+    "vexa": "a place of power or potential, where one can rise to leadership"
+   },
+   "19": {
+    "zorn": "rare stone, glowing with inner light, sought for its power"
+   }
+  }
+ }
+]

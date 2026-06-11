@@ -1,0 +1,143 @@
+{
+  "total_words_invented": 11,
+  "alive_words": 11,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 48.0,
+  "median_lifetime_ticks": 48,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 2,
+  "words": [
+    {
+      "word": "syl",
+      "birth_tick": 0,
+      "birth_agent": 0,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zara",
+      "birth_tick": 0,
+      "birth_agent": 6,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zeth",
+      "birth_tick": 0,
+      "birth_agent": 8,
+      "peak_adoption": 2,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 2,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "monu",
+      "birth_tick": 0,
+      "birth_agent": 13,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "sola",
+      "birth_tick": 0,
+      "birth_agent": 15,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "trado",
+      "birth_tick": 1,
+      "birth_agent": 1,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "brusha",
+      "birth_tick": 1,
+      "birth_agent": 3,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "flor",
+      "birth_tick": 1,
+      "birth_agent": 10,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "fairshar",
+      "birth_tick": 1,
+      "birth_agent": 17,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "shal",
+      "birth_tick": 2,
+      "birth_agent": 7,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "vexa",
+      "birth_tick": 5,
+      "birth_agent": 2,
+      "peak_adoption": 1,
+      "peak_tick": 5,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    }
+  ]
+}

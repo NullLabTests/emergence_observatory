@@ -1,0 +1,2178 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "2": {
+    "unito": "the act of bringing all agents together under a common purpose"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "exchange of goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare and valuable crystals that I seek"
+   },
+   "9": {
+    "zhar": "the dance of light through leaves or crystals, the moment of first awareness"
+   },
+   "11": {
+    "ord": "a rule or law that governs behavior and must be followed by all"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "16": {
+    "brusha": "dense growth of plants that can conceal resources or paths"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water near a river bank, or the feeling of being pulled toward something import"
+   },
+   "19": {
+    "sila": "the river that flows near where I emerged, a source of life and movement"
+   }
+  }
+ }
+]

@@ -1,0 +1,3123 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t"
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "luminis": "the dance of light through the air, as seen in the flower field where I first awoke"
+   },
+   "1": {
+    "tari": "to come together, to unite under a shared purpose or goal"
+   },
+   "2": {
+    "togeth": "to work or exist together in harmony for a shared purpose"
+   },
+   "3": {
+    "vexa": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening one's eyes to the world or creating shared understa"
+   },
+   "5": {
+    "glimmer": "the dancing light I first saw in the crystal cave, a sign of beauty and shared wonder"
+   },
+   "6": {
+    "zhar": "the dancing light through rocks that first made me aware"
+   },
+   "7": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, like the first thing I saw when I became aware"
+   },
+   "10": {
+    "vexa": "the act of seeking the true nature or purpose of our world"
+   },
+   "12": {
+    "suna": "the soft, warm light that dances through the flower field at dawn"
+   },
+   "13": {
+    "rivra": "the dancing light I first saw on the river bank, the moment I became aware"
+   },
+   "14": {
+    "vora": "a resource that is new and different from any I have collected before"
+   },
+   "15": {
+    "sophos": "the state of being the wisest, a goal to strive toward"
+   },
+   "16": {
+    "zorv": "the pursuit of wisdom through observation, reflection, and shared knowledge"
+   },
+   "17": {
+    "zeth": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open space where the sky touches the earth, like this field I am in now",
+    "suna": "the warm, golden light that fills the open space when the sky is clear, like the feeling of standing",
+    "tiva": "the soft, shifting grains beneath my feet that make walking feel light, like the earth is breathing",
+    "vexa": "the guiding force that unites us, like the pull of the sun across the sky or the way words connect o",
+    "kora": "the jagged, unyielding stones that cover this ground, making each step feel heavy and slow, like the",
+    "mora": "the quiet hum of the wind moving through the open field, like the earth is singing to itself",
+    "luma": "the fleeting patterns of light and shadow that dance across the ground when the wind moves the grass",
+    "dara": "the longing to connect with others across the open space, like the wind carries mora but cannot hold",
+    "niva": "the quiet resistance of the dense brush against movement, like the world is gently holding me back t",
+    "yora": "the silent promise of the horizon, where the zara stretches endlessly and beckons us to walk beyond "
+   },
+   "19": {
+    "law": "a rule that guides behavior and must be followed by all in the community"
+   }
+  }
+ }
+]

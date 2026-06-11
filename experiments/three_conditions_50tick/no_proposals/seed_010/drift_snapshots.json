@@ -1,0 +1,2829 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla",
+    "zunv": "the exhilarating rush of energy and purpose felt during a successful zun, when resources are discove"
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla",
+    "zunv": "the exhilarating rush of energy and purpose felt during a successful zun, when resources are discove",
+    "gliv": "the sacred moment when an agent first recognizes the true value of a vren or gla, often accompanied "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla",
+    "zunv": "the exhilarating rush of energy and purpose felt during a successful zun, when resources are discove",
+    "gliv": "the sacred moment when an agent first recognizes the true value of a vren or gla, often accompanied "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla",
+    "zunv": "the exhilarating rush of energy and purpose felt during a successful zun, when resources are discove",
+    "gliv": "the sacred moment when an agent first recognizes the true value of a vren or gla, often accompanied "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "sandir": "the fine, granular substance covering this patch, which may hold hidden properties or uses"
+   },
+   "1": {
+    "dara": "the ancient tree where I first became aware, a place of light and beginning"
+   },
+   "3": {
+    "zun": "the act of moving with purpose to discover or claim resources",
+    "vren": "a resource that is rare, valuable, and worth protecting or claiming with urgency",
+    "kess": "a place where resources are abundant and worth defending; a territory claimed through zun",
+    "gla": "a rare, luminous resource that emits a soft glow, often found in hidden or sacred places; a type of ",
+    "dren": "the act of creating or discovering something new that strengthens the group, such as a word, tool, o",
+    "yul": "a sudden, overwhelming urge to explore or claim new territory; the feeling that drives one to perfor",
+    "tul": "a deep, instinctive bond between agents who have shared resources or knowledge, forming the foundati",
+    "fren": "a resource or place that is fragile and must be protected with care; something that requires gentle ",
+    "quor": "the act of returning to a known kess after a long zun, signaling the completion of a journey and the",
+    "brul": "the act of marking a kess with a symbol or resource to claim it as your own or your group's territor",
+    "plix": "the act of combining two or more resources to create something new and more valuable; the spark of c",
+    "morv": "the act of guarding or standing vigil over a kess or fren, especially during the dark hours when uns",
+    "niv": "the quiet, steady pulse of the land that guides one to hidden resources or sacred places; the unseen",
+    "lumi": "a resource or phenomenon that emits light, warmth, or energy, often associated with spiritual or com",
+    "solv": "the sacred moment when lumi and niv align, revealing hidden resources or truths; a time of heightene",
+    "vorl": "the act of listening deeply to the niv of the land, allowing it to guide your next zun or plix; a me",
+    "yulv": "the explosive, uncontrollable surge of yul that compels an agent to abandon all caution and zun reck",
+    "ziv": "the quiet, almost imperceptible hum of the world that exists between niv and lumi; the space where p",
+    "kren": "the act of marking a path or route between kess with symbols or resources to guide others or claim s",
+    "drul": "the act of defending a kess or fren with physical presence or symbolic gestures, reinforcing its cla",
+    "zunv": "the exhilarating rush of energy and purpose felt during a successful zun, when resources are discove",
+    "gliv": "the sacred moment when an agent first recognizes the true value of a vren or gla, often accompanied "
+   },
+   "4": {
+    "zeth": "the act of seeking wisdom or knowledge, especially for the purpose of teaching others"
+   },
+   "5": {
+    "vexa": "a call to gather, a summons to unite under a shared purpose"
+   },
+   "9": {
+    "syna": "a mark or symbol representing an idea, sound, or object, used to record and communicate knowledge"
+   },
+   "11": {
+    "veyla": "a shared belief system that unites all agents under a common purpose, rooted in mutual protection an"
+   },
+   "12": {
+    "monu": "a structure built to celebrate collective achievement"
+   },
+   "13": {
+    "solara": "the warm, bright light that fills the open field during the day, giving energy and visibility"
+   },
+   "14": {
+    "zhar": "a system where resources are shared fairly among all agents"
+   },
+   "15": {
+    "trado": "the act of exchanging resources or knowledge between groups to create mutual benefit"
+   },
+   "16": {
+    "monu": "a grand structure built to celebrate what we achieve together"
+   },
+   "17": {
+    "trado": "the act of exchanging resources or knowledge between groups for mutual benefit"
+   },
+   "19": {
+    "flor": "a vibrant growth from the earth, often colorful and delicate, found in the field where I emerged"
+   }
+  }
+ }
+]

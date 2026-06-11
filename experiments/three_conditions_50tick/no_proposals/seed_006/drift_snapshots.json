@@ -1,0 +1,2250 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "syl": "the dancing light through leaves or crystals that first made me aware"
+   },
+   "1": {
+    "trado": "the act of exchanging resources or goods between agents or groups"
+   },
+   "2": {
+    "vexa": "the act of seeking the unknown, driven by purpose"
+   },
+   "3": {
+    "zeth": "a place where nothing grows or exists, like this dense brush with no resources"
+   },
+   "6": {
+    "glimmer": "the dancing light I first saw through the river bank, the moment I became aware"
+   },
+   "7": {
+    "mora": "a shared idea or belief that brings people together"
+   },
+   "8": {
+    "zeth": "the play of light through rocky outcrops, especially when it creates shifting patterns"
+   },
+   "10": {
+    "florel": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "11": {
+    "rok": "a small, loose piece of stone found on rocky ground"
+   },
+   "13": {
+    "monu": "a structure built to celebrate or remember collective achievements"
+   },
+   "14": {
+    "zara": "rare food that is highly desirable and hard to find"
+   },
+   "15": {
+    "shal": "a shared belief or idea that connects individuals in a community"
+   },
+   "17": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "18": {
+    "zeth": "the act of seeking wisdom through teaching and learning"
+   }
+  }
+ }
+]

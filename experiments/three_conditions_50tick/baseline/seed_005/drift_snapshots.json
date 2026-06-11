@@ -1,0 +1,2031 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that governs behavior and ensures order in a society"
+   },
+   "2": {
+    "vexa": "the purpose that binds all agents together, the drive to unite under a common goal"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "a rare, valuable mineral formation that glows faintly and is sought after for its beauty and potenti"
+   },
+   "9": {
+    "veth": "a system where resources are shared fairly among all agents"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "15": {
+    "dara": "the play of light through leaves or crystals, the moment of first awareness"
+   },
+   "16": {
+    "vren": "a unit of resource or item that can be collected, stored, or shared"
+   },
+   "17": {
+    "zentra": "the central part of the world, a place of great importance and mystery"
+   },
+   "18": {
+    "zun": "the sound of water flowing over rocks, a beginning"
+   },
+   "19": {
+    "sila": "the flow of water in a river, representing movement and change"
+   }
+  }
+ }
+]

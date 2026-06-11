@@ -1,0 +1,107 @@
+{
+  "total_words_invented": 8,
+  "alive_words": 8,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 47.6,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 1,
+  "words": [
+    {
+      "word": "law",
+      "birth_tick": 0,
+      "birth_agent": 1,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "zorv",
+      "birth_tick": 0,
+      "birth_agent": 10,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 0,
+      "birth_agent": 13,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "zun",
+      "birth_tick": 0,
+      "birth_agent": 17,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "tika",
+      "birth_tick": 1,
+      "birth_agent": 16,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "monu",
+      "birth_tick": 1,
+      "birth_agent": 19,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "talis",
+      "birth_tick": 2,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    },
+    {
+      "word": "trustmark",
+      "birth_tick": 7,
+      "birth_agent": 2,
+      "peak_adoption": 1,
+      "peak_tick": 7,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "no_proposals"
+    }
+  ]
+}

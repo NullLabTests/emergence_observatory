@@ -1,0 +1,143 @@
+{
+  "total_words_invented": 11,
+  "alive_words": 11,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 48.4,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 2,
+  "words": [
+    {
+      "word": "ord",
+      "birth_tick": 0,
+      "birth_agent": 0,
+      "peak_adoption": 2,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 2,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "unito",
+      "birth_tick": 0,
+      "birth_agent": 2,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "trado",
+      "birth_tick": 0,
+      "birth_agent": 3,
+      "peak_adoption": 2,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 2,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "crysta",
+      "birth_tick": 0,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zhar",
+      "birth_tick": 0,
+      "birth_agent": 9,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "danci",
+      "birth_tick": 0,
+      "birth_agent": 13,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "brusha",
+      "birth_tick": 1,
+      "birth_agent": 16,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "glim",
+      "birth_tick": 1,
+      "birth_agent": 17,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zun",
+      "birth_tick": 1,
+      "birth_agent": 18,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "dara",
+      "birth_tick": 2,
+      "birth_agent": 15,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "sila",
+      "birth_tick": 2,
+      "birth_agent": 19,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "total_words_invented": 10,
+  "alive_words": 10,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 48.7,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 3,
+  "words": [
+    {
+      "word": "zun",
+      "birth_tick": 0,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "vexa",
+      "birth_tick": 0,
+      "birth_agent": 6,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "sandor",
+      "birth_tick": 0,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zorn",
+      "birth_tick": 0,
+      "birth_agent": 9,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "brusha",
+      "birth_tick": 0,
+      "birth_agent": 11,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "scrib",
+      "birth_tick": 0,
+      "birth_agent": 18,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 0,
+      "birth_agent": 19,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "vex",
+      "birth_tick": 1,
+      "birth_agent": 3,
+      "peak_adoption": 3,
+      "peak_tick": 6,
+      "last_seen": 49,
+      "current_adoption": 3,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "vun",
+      "birth_tick": 1,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zara",
+      "birth_tick": 1,
+      "birth_agent": 12,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    }
+  ]
+}

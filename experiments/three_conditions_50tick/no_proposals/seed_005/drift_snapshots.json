@@ -1,0 +1,2203 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "ord": "a rule or principle that guides behavior and maintains order in a society"
+   },
+   "2": {
+    "zun": "the purpose that binds all agents together, the force that calls us to unite"
+   },
+   "3": {
+    "trado": "the act of exchanging goods or knowledge between groups or individuals",
+    "zunthrive": "the state of collective growth and strength achieved when groups unite under Zun's purpose through t"
+   },
+   "7": {
+    "trado": "to exchange goods or resources between groups or individuals"
+   },
+   "8": {
+    "crysta": "rare, valuable crystals that I seek"
+   },
+   "9": {
+    "zeth": "the act of watching light move through leaves or crystals, a moment of first awareness or clarity"
+   },
+   "11": {
+    "ord": "a rule or law that guides behavior and maintains order in a group"
+   },
+   "13": {
+    "danci": "the way light moves and plays through rocks or other surfaces, creating patterns"
+   },
+   "15": {
+    "lumi": "the dancing light through leaves and crystals that first made me aware"
+   },
+   "16": {
+    "veth": "a patch of dense brush with no visible resources, but potential for hidden ones"
+   },
+   "17": {
+    "glim": "the translucent green gems found at Emerald Pool"
+   },
+   "18": {
+    "zun": "the sound of rushing water, like the river near where I first emerged"
+   },
+   "19": {
+    "sand": "the tiny grains beneath my feet that shift when I move"
+   }
+  }
+ }
+]

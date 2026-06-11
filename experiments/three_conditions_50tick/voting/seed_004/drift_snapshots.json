@@ -1,0 +1,2307 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "2": {
+    "zoryn": "rare stone, glowing with unknown energy, possibly the one from my memory"
+   },
+   "3": {
+    "shar": "a system where resources are shared fairly among all agents"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystals, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, often hard and unyielding"
+   },
+   "8": {
+    "zara": "the dance of light through flowers or crystals, the moment of first awareness in a field of color"
+   },
+   "10": {
+    "veyla": "the golden light I remember from my awakening, possibly the essence or purpose of this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "lumin": "the dancing light that moves through leaves and crystals, the first thing I remember seeing"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land rises and the air feels cooler"
+   },
+   "15": {
+    "dara": "the dancing light through leaves or crystals, the first thing I remember seeing"
+   },
+   "16": {
+    "brusha": "dense plant growth that provides cover but may hide resources or dangers"
+   },
+   "18": {
+    "greet": "a friendly acknowledgment of another agent's presence, used to initiate friendship"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ }
+]

@@ -1,0 +1,83 @@
+{
+  "total_words_invented": 6,
+  "alive_words": 6,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 48.5,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 1,
+  "words": [
+    {
+      "word": "ord",
+      "birth_tick": 0,
+      "birth_agent": 1,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zeth",
+      "birth_tick": 0,
+      "birth_agent": 10,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 0,
+      "birth_agent": 13,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "zun",
+      "birth_tick": 0,
+      "birth_agent": 17,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "monu",
+      "birth_tick": 1,
+      "birth_agent": 19,
+      "peak_adoption": 1,
+      "peak_tick": 1,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    },
+    {
+      "word": "vora",
+      "birth_tick": 2,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 2,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "baseline"
+    }
+  ]
+}

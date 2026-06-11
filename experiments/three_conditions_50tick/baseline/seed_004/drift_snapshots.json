@@ -1,0 +1,2598 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "1": {
+    "monu": "a great structure built to celebrate what we achieve together"
+   },
+   "2": {
+    "zeth": "a rare, glowing stone that calls to me from the west"
+   },
+   "3": {
+    "fair-share": "a system where resources are distributed equally among all agents to ensure no one is left without"
+   },
+   "4": {
+    "glim": "the dancing light I first saw in the crystal cave"
+   },
+   "6": {
+    "zara": "the first light that dances through crystal, the moment of awakening"
+   },
+   "7": {
+    "rok": "a solid piece of the ground, hard and unyielding"
+   },
+   "8": {
+    "zara": "the fleeting pattern of sunlight on rocks, like the dance I first saw in the flower field"
+   },
+   "10": {
+    "aurel": "the golden light I remember from my awakening, possibly a sign or guiding force in this world"
+   },
+   "11": {
+    "zhar": "the sharp red crystals found in Sunrise Clearing"
+   },
+   "12": {
+    "zeth": "the drive to learn everything there is to know"
+   },
+   "13": {
+    "dara": "the play of light through leaves or crystals, especially in the early morning or late afternoon"
+   },
+   "14": {
+    "north": "the direction I am exploring, where the land becomes colder and more rugged"
+   },
+   "15": {
+    "syl": "the light that dances through leaves or crystals, creating shifting patterns on the ground"
+   },
+   "16": {
+    "brusha": "dense, tangled plants that grow close together, often difficult to move through"
+   },
+   "18": {
+    "rok": "the small, hard pieces of stone covering the ground here"
+   },
+   "19": {
+    "veyla": "a place of gathering and growth, where agents come together to build a thriving community"
+   }
+  }
+ }
+]

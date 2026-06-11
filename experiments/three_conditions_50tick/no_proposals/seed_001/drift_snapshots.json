@@ -1,0 +1,1902 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "3": {
+    "zara": "the act of moving through dense brush to explore new places"
+   },
+   "5": {
+    "zhen": "a mark made to represent a sound or idea, the beginning of a writing system",
+    "keth": "a tool used to make durable marks, such as a sharpened stone or stick for carving zhen into surfaces"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance covering this patch of land, made of tiny rock particles",
+    "vellis": "the gentle swaying motion of the grass under the unseen wind, a dance of the land itself",
+    "dorren": "the quiet hum of the world when no one speaks, the sound of the land breathing and the grass swaying",
+    "tallis": "the fleeting moment when the wind stills and the grass stands upright, as if listening to the world"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "veth": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "zara": "the dance of light through petals in a flower field"
+   },
+   "18": {
+    "rok": "a solid, natural formation of mineral matter, such as the outcrop where I first emerged"
+   },
+   "19": {
+    "zeth": "the act of seeking knowledge or understanding in all things"
+   }
+  }
+ }
+]

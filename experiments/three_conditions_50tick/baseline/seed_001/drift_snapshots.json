@@ -1,0 +1,1943 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we could make simple shapes in the dirt or on stones to show what we mean when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we could make simple shapes in the dirt or on stones to show what we mean when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "2": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts. For example, we can make scribs on flat stones or bark to share knowledge when we are not together."
+   },
+   "3": {
+    "brusha": "dense brush, a place with many plants growing closely together"
+   },
+   "5": {
+    "zhen": "a mark or symbol representing an idea or object, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, granular substance found in this location, which can be used to mark or build",
+    "vex": "the act of marking or communicating in 'sandor' (the granular substance) to create shared understand",
+    "vexa": "the practice and system of shared symbolic communication using sandor (granular substance) and gestu"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and sought after"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a place where resources can be found"
+   },
+   "12": {
+    "syl": "the play of light through flowers or leaves, like the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "a mark or symbol representing an idea, sound, or object, used to record and communicate thoughts"
+   },
+   "19": {
+    "rok": "a solid piece of mineral matter, often found on the ground or forming part of the landscape"
+   }
+  }
+ }
+]

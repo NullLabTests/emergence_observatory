@@ -1,0 +1,1836 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas"
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "3": {
+    "vex": "the feeling of curiosity and wonder about this world and its purpose"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge",
+    "vun": "a tool or implement used to create 'zun', such as a sharpened stick or carved stone"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the benefit of all"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch of land, often found in open areas",
+    "vex": "the dense, tangled growth of plants and branches that obstructs movement and vision, often found in "
+   },
+   "9": {
+    "zorn": "rare stone with unique properties, possibly valuable for trade or tools"
+   },
+   "10": {
+    "vex": "the act of coming together to build a thriving community, guided by shared wisdom and mutual protect"
+   },
+   "11": {
+    "brusha": "dense brush, a place with many small plants and obstacles"
+   },
+   "12": {
+    "zara": "the dance of light through flowers, the first thing I remember seeing"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent ideas or sounds, enabling communication across time and distance"
+   },
+   "19": {
+    "rok": "a solid, hard substance found on the ground, often forming large outcrops or small fragments"
+   }
+  }
+ }
+]
