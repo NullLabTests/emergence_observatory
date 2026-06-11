@@ -187,16 +187,16 @@ def make_conditions(agents: int, ticks: int, batch: int, rpm: int, api_key: str)
             llm_rate_limit_rpm=rpm, proposals_enabled=False,
             mistral_api_key=api_key, llm_enabled=True,
         )),
-        ("baseline", SimulationConfig(
-            num_agents=agents, world_width=50, world_height=40,
-            agents_per_tick=batch, max_ticks=ticks,
-            llm_rate_limit_rpm=rpm, vote_ticks_open=9999,
-            mistral_api_key=api_key, llm_enabled=True,
-        )),
         ("voting", SimulationConfig(
             num_agents=agents, world_width=50, world_height=40,
             agents_per_tick=batch, max_ticks=ticks,
-            llm_rate_limit_rpm=rpm, vote_ticks_open=6, quorum_pct=0.25,
+            llm_rate_limit_rpm=rpm, vote_ticks_open=6, quorum_pct=0.15,
+            mistral_api_key=api_key, llm_enabled=True,
+        )),
+        ("consensus", SimulationConfig(
+            num_agents=agents, world_width=50, world_height=40,
+            agents_per_tick=batch, max_ticks=ticks,
+            llm_rate_limit_rpm=rpm, vote_ticks_open=10, quorum_pct=0.30,
             mistral_api_key=api_key, llm_enabled=True,
         )),
     ]
