@@ -1,0 +1,143 @@
+{
+  "total_words_invented": 11,
+  "alive_words": 11,
+  "extinct_words": 0,
+  "mean_lifetime_ticks": 47.6,
+  "median_lifetime_ticks": 49,
+  "max_lifetime_ticks": 49,
+  "max_peak_adoption": 3,
+  "words": [
+    {
+      "word": "brusha",
+      "birth_tick": 0,
+      "birth_agent": 3,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zun",
+      "birth_tick": 0,
+      "birth_agent": 5,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "vexa",
+      "birth_tick": 0,
+      "birth_agent": 6,
+      "peak_adoption": 3,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 3,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "sandor",
+      "birth_tick": 0,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "zorn",
+      "birth_tick": 0,
+      "birth_agent": 9,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "veth",
+      "birth_tick": 0,
+      "birth_agent": 11,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "syl",
+      "birth_tick": 0,
+      "birth_agent": 12,
+      "peak_adoption": 1,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "rok",
+      "birth_tick": 0,
+      "birth_agent": 18,
+      "peak_adoption": 2,
+      "peak_tick": 0,
+      "last_seen": 49,
+      "current_adoption": 2,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "vexil",
+      "birth_tick": 4,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 4,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "tessal",
+      "birth_tick": 5,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 5,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    },
+    {
+      "word": "dorn",
+      "birth_tick": 6,
+      "birth_agent": 8,
+      "peak_adoption": 1,
+      "peak_tick": 6,
+      "last_seen": 49,
+      "current_adoption": 1,
+      "extinct": false,
+      "extinction_tick": null,
+      "governance": "voting"
+    }
+  ]
+}

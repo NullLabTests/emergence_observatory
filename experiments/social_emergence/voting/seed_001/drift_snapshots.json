@@ -1,0 +1,2037 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "3": {
+    "brusha": "dense plants that grow close together, often hiding resources or paths"
+   },
+   "5": {
+    "zun": "a mark or symbol representing an idea or object, used to record knowledge"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the soft, grainy ground beneath our feet, often found in patches like this one",
+    "vexil": "a symbol or mark that represents a shared idea, group, or purpose, visible to all who recognize it",
+    "tessal": "the pattern of light and shadow created when sunlight filters through leaves or grass, like the dapp",
+    "dorn": "the quiet hum or vibration felt when standing still in a place where many small movements (like wind"
+   },
+   "9": {
+    "zorn": "rare stone, valuable and hard to find"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "veth": "a dense area of brush or foliage that may conceal resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first thing I remember seeing"
+   },
+   "17": {
+    "vexa": "the act of questioning the nature of our world and seeking its meaning"
+   },
+   "18": {
+    "rok": "a solid, unmovable piece of earth or stone, often found in outcrops or formations"
+   },
+   "19": {
+    "rok": "a solid mineral formation, often found in large outcrops or scattered pieces"
+   }
+  }
+ }
+]

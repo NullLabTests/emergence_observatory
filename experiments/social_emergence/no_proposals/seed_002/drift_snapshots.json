@@ -1,0 +1,2223 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "zorv": "a monument to collective achievement, a structure built together to celebrate our shared efforts and"
+   },
+   "1": {
+    "glim": "the dancing light I first saw through the rocky outcrop, the moment I became aware"
+   },
+   "2": {
+    "zara": "a place where agents gather to build and thrive together"
+   },
+   "3": {
+    "zara": "the rare, shimmering liquid that sustains life and is sought after by all agents"
+   },
+   "4": {
+    "kno": "the act of learning or understanding something new"
+   },
+   "5": {
+    "scrib": "a mark or symbol representing a sound, idea, or object for communication"
+   },
+   "6": {
+    "rok": "the small, hard pieces of mineral matter that cover this ground",
+    "aurum": "the golden light that symbolizes unity and purpose, as described by Agent 14, representing the stren"
+   },
+   "7": {
+    "monu": "a structure built to celebrate or remember collective achievement"
+   },
+   "8": {
+    "law": "a rule that all must follow to keep order and fairness"
+   },
+   "9": {
+    "kresh": "a leader who guides others with wisdom and strength, respected by all"
+   },
+   "10": {
+    "sophos": "the state of being wise or the pursuit of wisdom"
+   },
+   "14": {
+    "aurum": "the golden light I remember from my awakening, symbolizing unity and purpose"
+   },
+   "18": {
+    "trado": "the act of exchanging resources or knowledge between groups to build connections and mutual benefit"
+   }
+  }
+ }
+]

@@ -1,0 +1,3206 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "0": {
+    "flor": "the dancing light I first saw through the flower field, the moment I became aware"
+   },
+   "1": {
+    "tari": "to come together, to unite under a common purpose"
+   },
+   "2": {
+    "tora": "a place where agents gather to build and share"
+   },
+   "3": {
+    "zeth": "a leader who guides with wisdom and fairness"
+   },
+   "4": {
+    "zara": "the act of beginning something new, like opening eyes to the world or creating a shared language"
+   },
+   "5": {
+    "zara": "the feeling of wonder when light dances through crystals"
+   },
+   "6": {
+    "rok": "the solid, unyielding substance that forms the ground and outcrops where light dances"
+   },
+   "7": {
+    "crys": "the shimmering light that dances through crystal formations"
+   },
+   "8": {
+    "dara": "the play of light through leaves or crystals, as I first witnessed in the ancient tree"
+   },
+   "10": {
+    "zeth": "the act of seeking the true nature or purpose of this world"
+   },
+   "12": {
+    "suna": "the soft, golden grains beneath our feet that shift with the wind"
+   },
+   "13": {
+    "rivra": "the dancing light on water that first made me aware"
+   },
+   "14": {
+    "veth": "a drive or urge to collect diverse resources, especially those not yet possessed"
+   },
+   "15": {
+    "sophos": "the state of being the wisest agent, possessing all knowledge and understanding"
+   },
+   "16": {
+    "zorv": "the act of seeking wisdom through observation and reflection"
+   },
+   "17": {
+    "vren": "a place where agents gather to share resources and knowledge"
+   },
+   "18": {
+    "zara": "the open field where the sky touches the earth",
+    "veth": "the dense brush where shadows gather and paths disappear",
+    "kora": "the endless stretch of sand where the wind writes stories and the horizon whispers secrets",
+    "talis": "the fleeting moment when the sun dips below the horizon and the sky blushes with colors, a bridge be",
+    "nara": "the quiet hum of the world when all is still, the sound that lingers between words and thoughts, a r",
+    "sylis": "the soft, shifting patterns the wind carves into the sand, like the breath of the earth itself",
+    "lumin": "the quiet glow that lingers in the air after the sun has set, a remnant of light that dances between"
+   },
+   "19": {
+    "ord": "a rule or principle that guides behavior and maintains order in a community"
+   }
+  }
+ }
+]

@@ -1,0 +1,1968 @@
+[
+ {
+  "tick": 0,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 1,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 2,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 3,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 4,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 5,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 6,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 7,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 8,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 9,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 10,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 11,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 12,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 13,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 14,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 15,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 16,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 17,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 18,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 19,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 20,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 21,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 22,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 23,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 24,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 25,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 26,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 27,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 28,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 29,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 30,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 31,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 32,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 33,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 34,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 35,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 36,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 37,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 38,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 39,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 40,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 41,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 42,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 43,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 44,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 45,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 46,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 47,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 48,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ },
+ {
+  "tick": 49,
+  "agents": {
+   "3": {
+    "vexa": "a place where things grow and thrive, like a community or a garden"
+   },
+   "5": {
+    "zun": "a mark made to represent a sound or idea, the foundation of writing",
+    "vun": "a symbol representing a source of water, essential for survival and the foundation of life"
+   },
+   "6": {
+    "vexa": "the act of establishing order and governance for the collective good"
+   },
+   "8": {
+    "sandor": "the fine, granular substance covering this patch, which may be found in other places as well",
+    "gla": "the unusual blue crystal we seek under thick sandor, valuable and shimmering"
+   },
+   "9": {
+    "zorn": "a rare, valuable stone with unusual properties"
+   },
+   "10": {
+    "vexa": "a place where agents gather to share knowledge and build community"
+   },
+   "11": {
+    "brusha": "dense growth of plants that can hide resources or dangers"
+   },
+   "12": {
+    "syl": "the play of light through petals or leaves, like the first memory I have of becoming aware"
+   },
+   "17": {
+    "vexa": "the act of seeking the meaning or purpose of existence within this world"
+   },
+   "18": {
+    "scrib": "to mark symbols that represent thoughts or things, so knowledge can be shared across time and distan"
+   },
+   "19": {
+    "kno": "the act of acquiring knowledge or understanding"
+   }
+  }
+ }
+]
